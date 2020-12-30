@@ -7,10 +7,11 @@ or buy merchandise as well as a page where you can register yopur emial to alway
 future music releases. 
 
  This webpage is designed as part of my Code Institutes Full Stack Diploma, Please click the link below to view my webpage:
- <br> https://www.discogs.com/artist/1289-Daft-Punk
+ <br> https://www.discogs.com/artist/1289-Daft-Punk (testing link not official)
 ## UX
  
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+This website is designed for fans to find all the information on the music duo's Discography in a simplistic user friendly webpage<br>
+Below you can find the following user stories that were brainstomred as part of the planning process. 
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
 - As a user type, I want to perform an action, so that I can achieve a goal.
