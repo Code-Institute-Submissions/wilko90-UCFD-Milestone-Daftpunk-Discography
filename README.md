@@ -8,13 +8,18 @@ future music releases.
 
  This webpage is designed as part of my Code Institutes Full Stack Diploma, Please click the link below to view my webpage:
  <br> https://www.discogs.com/artist/1289-Daft-Punk (testing link not official)
+
 ## UX
  
 This website is designed for fans to find all the information on the music duo's Discography in a simplistic user friendly webpage<br>
 Below you can find the following user stories that were brainstomred as part of the planning process. 
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+
+- As a fan I want to browse the duo's music discography so that I can listen to there past and current releases  
+- As a fan I want to Learn more about past releases and know where I can purchase there music 
+- As a browsing user I want to understand what im browsing in a simple user friendly manner
+- As a venue I want to be directed easily to the duos social media where I can contact them for any potential bookings
+- 
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
