@@ -14,12 +14,11 @@ future music releases.
 This website is designed for fans to find all the information on the music duo's Discography in a simplistic user friendly webpage<br>
 Below you can find the following user stories that were brainstomred as part of the planning process. 
 
-
 - As a fan I want to browse the duo's music discography so that I can listen to there past and current releases  
 - As a fan I want to Learn more about past releases and know where I can purchase there music 
 - As a browsing user I want to understand what im browsing in a simple user friendly manner
 - As a venue I want to be directed easily to the duos social media where I can contact them for any potential bookings
-- 
+- As a fan I want to be able to register my email so that I can keep up to date with any news or future releases
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
