@@ -4,10 +4,14 @@
 
 .banner-image {
     width: 100%;
-    background-image: url(static/images/nav_bannenr_1.png);
+    background-image: url(static/images/nav_bannenr_1.png) !important;
     
 
 }
 
+.footer{
+    width: 100%;
+    background-image: url(static/images/nav_bannenr_1.png) !important;
+}
 
 
