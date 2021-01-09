@@ -1,9 +1,15 @@
-.body{
+
+html{
     height: 100%;
-    
 }
 
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
 /*-----------------------------nav bar*/
+
 
 .banner-image {
     width: 100%;
@@ -30,9 +36,16 @@
     max-width: 100%;
     shape-outside: circle(50%);
     margin-top: 50px;
+}
+
+.nopadding {
+    padding-right: 0;
+    padding-left: 0;
+
+}
 
     
-}
+
 
 /*-----------------------------contact section*/
 .submit-button-contact{
@@ -40,9 +53,19 @@
 }
 /*-----------------------------footer*/
 .footer {
-    width: 100%;
+    
     background-image: url(static/images/nav_bannenr_1.png) !important;
+    width: 100%;
+   
+    
     
     
 }
+
+.content{
+    flex: 1 0 auto;
+}
+
+
+
 
