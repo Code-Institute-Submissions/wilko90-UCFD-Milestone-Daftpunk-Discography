@@ -8,7 +8,7 @@ body{
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background-color:#fff ;
+    background-color:#F0F3F4;
     font-family: "Roboto", sans-serif;
     color: #000000;
 }
@@ -63,31 +63,48 @@ a .nav-link :before {
   visibility: visible;
   transform: scaleX(1);
 }
-/*-----------------------------intro section*/
+/*-----------------------------intro section homepage*/
 
 .intro-section {
     width: 75%;
     margin:0 auto;
-}
-
-.intro-section h1 {
-    font-size: 75px;
     color:#212121;
     padding-top: 26px;
+    padding-bottom: 26px;
 }
 
 .intro-section hr {
     border-top: 2px solid #212121;
-    width: 75%;
+    width: 95%;
     margin-bottom: 30px;
 }
 
-/*-----------------------------discography-samples*/
+/*-----------------------------discography samples homepage*/
 
 .homepage-title{
     padding: 20px;
+    margin:0 auto;
 }
 
+/*-----------------------------artists section homepage*/
+
+.intro-bio{
+    padding-bottom: 26px;
+}
+
+.intro-bio hr{
+    border-top: 2px solid #212121;
+    width: 30%;
+    margin-bottom: 30px;
+}
+
+.artists-bio-homepage{
+    padding-bottom: 36px;
+}
+
+.artist-padding{
+    padding-bottom: 20px;
+}
 
 /*-----------------------------audio controls*/
 .audio-controls{
@@ -125,6 +142,7 @@ a .nav-link :before {
 .btn-secondary{
     background-color:#D4AC0D ;
     border: 1px solid #fff;
+
 }
 
 .btn-secondary:hover{
@@ -136,23 +154,58 @@ a .nav-link :before {
 /*-----------------------------contact section*/
 
 /*-----------------------------footer*/
-.footer {
+.footer-image {
     
     background-image: url(static/images/nav_bannenr_1.png) !important;
     width: 100%;
    
-    
-    
-    
 }
 
 .content{
     flex: 1 0 auto;
 }
 
-@media (max-wdith: 992px) {
 
+    
+
+
+.fab{
+    color: #212121;
+    font-size: 36px;
+    background-color:#F0F3F4;
+    margin: 20px;
+    width: 58px;
+    height: 58px;
+    padding: 12px 6px 0px 6px;
+    border-radius: 50%;
+    transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    
 }
+
+.fab:hover {
+    background-color: #D4AC0D;
+}
+
+
+
+.connect-heading{
+    font-size: 28px;
+    color: #F0F3F4;
+}
+      
+
+
+.padding-footer {
+    padding: 36px;
+}
+
+
+
+
+
 
 
 
