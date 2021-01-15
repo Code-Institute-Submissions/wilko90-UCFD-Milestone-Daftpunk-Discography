@@ -1,4 +1,5 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+/*-----------------------------html structure*/
 html{
     height: 100%;
 }
@@ -7,6 +8,9 @@ body{
     height: 100vh;
     display: flex;
     flex-direction: column;
+    background-color:#fff ;
+    font-family: "Roboto", sans-serif;
+    color: #000000;
 }
 /*-----------------------------nav bar*/
 
@@ -16,9 +20,76 @@ body{
     background-image: url(static/images/nav_bannenr_1.png) !important;
     
 
+    
 }
 
 
+
+.navbar{
+    padding: 5px;
+}
+.navbar-nav li {
+    padding-right: 40px;
+}
+
+.nav-link {
+    font-size: 18px;
+    font-weight: bold;
+    color:#F0F3F4 !important;
+}
+
+/*-----------------------------nav bar hover css*/
+.nav-link{ 
+    position: relative;
+
+}
+
+  .nav-link::after{
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  background:#F0F3F4;
+  transition: width .3s;
+  
+}
+
+.nav-link:hover::after{
+    width: 100%;
+    transition: width .3s;
+}
+
+a .nav-link :before {
+  visibility: visible;
+  transform: scaleX(1);
+}
+/*-----------------------------intro section*/
+
+.intro-section {
+    width: 75%;
+    margin:0 auto;
+}
+
+.intro-section h1 {
+    font-size: 75px;
+    color:#212121;
+    padding-top: 26px;
+}
+
+.intro-section hr {
+    border-top: 2px solid #212121;
+    width: 75%;
+    margin-bottom: 30px;
+}
+
+/*-----------------------------discography-samples*/
+
+.homepage-title{
+    padding: 20px;
+}
+
+
+/*-----------------------------audio controls*/
 .audio-controls{
     max-width: 100%;
 }
@@ -44,13 +115,26 @@ body{
 
 }
 
+
+/*-----------------------------buttons css*/
     
-
-
-/*-----------------------------contact section*/
 .submit-button-contact{
     margin: 20px;
 }
+
+.btn-secondary{
+    background-color:#D4AC0D ;
+    border: 1px solid #fff;
+}
+
+.btn-secondary:hover{
+    background-color:#B7950B ;
+    border: 1px solid #fff;
+
+}
+
+/*-----------------------------contact section*/
+
 /*-----------------------------footer*/
 .footer {
     
@@ -66,6 +150,10 @@ body{
     flex: 1 0 auto;
 }
 
+@media (max-wdith: 992px) {
+
+}
 
 
 
+/*-----------------------------media queries/
