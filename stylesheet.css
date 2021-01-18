@@ -106,6 +106,26 @@ a .nav-link :before {
     padding-bottom: 20px;
 }
 
+
+/*-----------------------------about section*/
+
+
+
+.jumbotron-bg-color{
+
+    background-color: #F0F3F4 !important;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.bg-light{
+    background-color: #F0F3F4 !important;
+}
+
+
+
+
+
 /*-----------------------------audio controls*/
 .audio-controls{
     max-width: 100%;
@@ -150,6 +170,33 @@ a .nav-link :before {
     border: 1px solid #fff;
 
 }
+/*-----------------------------about page*/
+.jumbotron-bg-about{
+    background-color: #F0F3F4 !important;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.evolution{
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.evolution hr{
+    border-top: 2px solid #212121;
+    width: 30%;
+    margin-bottom: 30px;
+
+}
+
+.evolution-video {
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+}
+
+
 
 /*-----------------------------contact section*/
 
