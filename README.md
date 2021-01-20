@@ -1,18 +1,26 @@
-# UCFD Milestone Project - Daft Punk's Discography Webpage
-This is front end only webpage that is designed for a French electornic music group called DaftPunk.<br>
-This webpage is designed for fans and followers to keep up to date with current and future music releases<br> 
-as well as past. The website provides a detailed history on the musics groups life, audio media where<br>
-you can listen to there music, extrenal social links where you can connect with the group <br>
-or buy merchandise as well as a page where you can register yopur emial to always keep up to date with <br>
+<h1 align="center">UCFD Milestone Project - Daft Punk's Discography Webpage</h1>
+
+
+<img src="static/images/responsive-layout.png" width= "">
+
+This is front end only webpage that is designed for a French electornic music group called DaftPunk
+This webpage is designed for fans and followers to keep up to date with current and future music releases 
+as well as past. The website provides a detailed history on the musics groups life, audio media where
+you can listen to there music, extrenal social links where you can connect with the group 
+or buy merchandise as well as a page where you can register yopur emial to always keep up to date with 
 future music releases. 
 
  This webpage is designed as part of my Code Institutes Full Stack Diploma, Please click the link below to view my webpage:
  [Click Here](https://wilko90.github.io/UCFD-Milestone-Daftpunk-Discography/)
 
-## UX
+ This project is developed using *HTML* and *CSS*, with a small bit of simple *Javascript* to aid with functiality. 
+
+<h1>UX</h1>
  
 This website is designed for fans to find all the information on the music duo's Discography in a simplistic user friendly webpage<br>
 Below you can find the following user stories that were brainstomred as part of the planning process. 
+
+### <ins>User stories</ins>
 
 - As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases  
 - As a visiting user I want to learn more about past releases and know where I can purchase there music 
@@ -20,7 +28,33 @@ Below you can find the following user stories that were brainstomred as part of 
 - As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings
 - As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases
 
-### Wireframes 
+
+# Scope
+
+## Website Requirements
+
+#### User Experiance
+
+- Website is simple,user friendly, minimalistic design
+- Branding is bold, stands out, eye catching
+- Content to be navigable  
+
+#### Engagment
+
+- Call to action points clear and noticable
+- Engagement with a simplistic form
+- All pages keeps users engaged with the artits 
+
+#### Translates / Purpose
+
+- Main description of artists discography on home page
+- 
+
+
+# Skeleton Plane
+### <ins>Wireframes</ins>
+
+All wireframes are the core skelteton to aid in the planning process and are not the final look of the design. I recommend that the PNG's are downloaded to be viewed in your own browser.  
 
 -  [Home Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/home.png)
 -  [Discography Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/discography.png)
@@ -28,9 +62,15 @@ Below you can find the following user stories that were brainstomred as part of 
 -  [Contact Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/contact.png)
 
 
-## Features
+# Features
 
-- 
+- Desktop,tablet and mobile responsive giving the user flexability.
+- Simplistic design which will help users navigate through out the web page with ease.
+- Interactive header image that is displayed on all pages to remind the user of the brand and when clicked will navigate back to home page.
+- Clear call to action buttons allowing users to know what to do next and make that initial contact.
+- Social icons clearly makered at the foot of the page. Allowing the user to interact further with the artits social sites.
+- Media player with controls - lets the user be more interactive with 
+- Embeded video with controls - helps the user   
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
