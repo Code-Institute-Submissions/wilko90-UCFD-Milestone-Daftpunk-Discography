@@ -33,22 +33,29 @@ Below you can find the following user stories that were brainstomred as part of 
 
 ## Website Requirements
 
-#### User Experiance
+#### <ins>User Needs
 
 - Website is simple,user friendly, minimalistic design
 - Branding is bold, stands out, eye catching
 - Content to be navigable  
 
-#### Engagment
+#### <ins>Engagment
 
 - Call to action points clear and noticable
 - Engagement with a simplistic form
-- All pages keeps users engaged with the artits 
+- All pages keeps engagement clear and easy to locate over existing features. 
 
-#### Translates / Purpose
+#### <ins>Translates / Purpose
 
 - Main description of artists discography on home page
-- 
+- Make further details of artists discography on alternate pages
+- Make the descriptions simple and straight to the point 
+
+
+# Structure
+
+## Home Page
+
 
 
 # Skeleton Plane
