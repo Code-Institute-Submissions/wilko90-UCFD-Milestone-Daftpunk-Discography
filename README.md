@@ -7,7 +7,7 @@ or buy merchandise as well as a page where you can register yopur emial to alway
 future music releases. 
 
  This webpage is designed as part of my Code Institutes Full Stack Diploma, Please click the link below to view my webpage:
- <br> https://www.discogs.com/artist/1289-Daft-Punk (testing link not official)
+ [Click Here](https://wilko90.github.io/UCFD-Milestone-Daftpunk-Discography/)
 
 ## UX
  
@@ -20,9 +20,17 @@ Below you can find the following user stories that were brainstomred as part of 
 - As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings
 - As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+### Wireframes 
+
+-  [Home Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/home.png)
+-  [Discography Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/discography.png)
+-  [About Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/about.png)
+-  [Contact Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/contact.png)
+
 
 ## Features
+
+- 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
