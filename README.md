@@ -7,7 +7,7 @@ This is front end only webpage that is designed for a French electornic music gr
 This webpage is designed for fans and followers to keep up to date with current and future music releases 
 as well as past. The website provides a detailed history on the musics groups life, audio media where
 you can listen to there music, extrenal social links where you can connect with the group 
-or buy merchandise as well as a page where you can register yopur emial to always keep up to date with 
+or buy merchandise as well as a page where you can register your email to always keep up to date with 
 future music releases. 
 
  This webpage is designed as part of my Code Institutes Full Stack Diploma, Please click the link below to view my webpage:
@@ -16,47 +16,101 @@ future music releases.
  This project is developed using *HTML* and *CSS*, with a small bit of simple *Javascript* to aid with functiality. 
 
 <h1>UX</h1>
+
+# Stratergy
  
 This website is designed for fans to find all the information on the music duo's Discography in a simplistic user friendly webpage<br>
 Below you can find the following user stories that were brainstomred as part of the planning process. 
 
 ### <ins>User stories</ins>
 
-- As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases  
-- As a visiting user I want to learn more about past releases and know where I can purchase there music 
-- As a visiting user I want to understand more about the music artists history
-- As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings
-- As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases
+* As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases  
+* As a visiting user I want to learn more about past releases and know where I can purchase there music 
+* As a visiting user I want to understand more about the music artists history
+* As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings
+* As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases
 
 
 # Scope
 
 ## Website Requirements
 
-#### <ins>User Needs
+#### <ins>User Needs</ins>
 
-- Website is simple,user friendly, minimalistic design
-- Branding is bold, stands out, eye catching
-- Content to be navigable  
+* Website is simple,user friendly, minimalistic design
+* Branding is bold, stands out, eye catching
+* Content to be navigable  
 
-#### <ins>Engagment
+#### <ins>Engagment</ins>
 
-- Call to action points clear and noticable
-- Engagement with a simplistic form
-- All pages keeps engagement clear and easy to locate over existing features. 
+* Call to action points clear and noticable
+* Engagement with a simplistic form
+* All pages keeps engagement clear and easy to locate over existing features. 
 
-#### <ins>Translates / Purpose
+#### <ins>Translates / Purpose</ins>
 
-- Main description of artists discography on home page
-- Make further details of artists discography on alternate pages
-- Make the descriptions simple and straight to the point 
+* Main description of artists discography on home page
+* Make further details of artists discography on alternate pages
+* Make the descriptions simple and straight to the point 
 
 
 # Structure
 
 ## Home Page
 
+* Engages user with artists logo/brand
+* Call to action point bold, stands out for initial contact
+* Proivides user with full break down of the artists 
+* <ins>User Aims</ins>
+    * Simplicity/navigable 
+    * Attraction
+    * Explains database
+* <ins>Artists Aims</ins>
+    * Strengthen following
+    * Engagement
+    * Understand the database   
 
+## Discography
+
+* Explain how the database works
+* Explain, store and orginasie artists collections
+* Consistent structure
+* <ins>User Aims</ins> 
+    * Information easily attained
+    * Presentation intuative
+    * Good structure 
+* <ins>Artists Aims</ins>
+    * Sell the brand
+    * Grow database
+    * Clear on objective
+
+## About
+
+* Clear understanding of artists
+* Sustain users knowledge
+* User friendly/simple
+* <ins>User Aims</ins>
+   * Acquire information 
+   * Understand the artists
+   * Be curious 
+* <ins>Artists Aims</ins>
+   * Inform user
+   * Create a meaningful relationship 
+   * persuade user to engage further
+
+## Contact
+
+* Allows user to connect directly with a form
+* Simple and navigable point of contact
+* Linea naritve style interaction
+* <ins> Users Aims </ins>
+   * Ease of access 
+   * Minimal data needed for initial engagement
+   * Eye catching call to action
+* <ins> Arists Aims</ins>
+   * Engagement
+   * Aquire user Information/feedback
+   * Understand your users
 
 # Skeleton Plane
 ### <ins>Wireframes</ins>
