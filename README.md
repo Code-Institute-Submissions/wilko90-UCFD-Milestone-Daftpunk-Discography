@@ -40,28 +40,35 @@ __What does a user want to gain from browsing an Artists Discography?__
 * create online presence 
     * Provide quailty and self expression
     * Increase brand awareness
-    * showcase music content in a user freindly environment 
+    * showcase music content in a user freindly environment
+    * Store and organize personal music collection for free 
 
-### <ins>Physical Features</ins>
 
-* Branding
+
+### <ins>Branding</ins>
    * Make the branding eye catching, referable, attractive
    * Match style of branding with pages, repetition on aestheics 
    * Apply branding through out
    * Minimalistic approach 
 
-* Content
+### <ins>Content</ins>
   * Intuative and eye catching design, minimal, interaction on every page 
     * stylistic and colour co-ordination that matches the artists attire
   * Intial minimal content but bold grabbing the users attention
     * Provide more in depth content for user to explore 
   * Call to action points easliy located and naviagle to engage user
-    * easy, user friendly proccess to start that inital contact   
+    * Easy, user friendly proccess to start that inital contact   
+
+### <ins>Pricing</ins>
+   * The database and site functionality are to remain free to use
+      * Alternate links to buy from external source if user wants to engage further this is appernt to user with one click of a button 
+   * No hidden fees or costs   
+    
 
 
  
 
-### <ins>User stories</ins>
+## User stories
 
 This website is designed for fans to find all the information on the music duo's Discography in a simplistic user friendly webpage
 Below you can find the following user stories that were brainstomred as part of the planning process. 
@@ -171,6 +178,18 @@ All wireframes are the core skelteton to aid in the planning process and are not
 
 # Surface Plane
 
+## Brand Image
+The branding Image or better known as a logo is a key aspect to draw attenttion to the user. Intially I chose a popular image that is associated with the artists 2001 album "discovery" 
+unfortuanly this image clashed with my over all theme, therefore I went for a more subtle and stylistic approach which complimented the theme of the project which the idea was taken from the 2013 album cover 
+"Random Access Memories". The logo was downloaded as a PNG for its transparency benefits. Logos where taken from a free to use website called [pngwing](https://www.pngwing.com/).
+
+* First Idea [Initial logo](https://w7.pngwing.com/pngs/659/114/png-transparent-daft-punk-logo-punk-rock-daft-punk-angle-text-black-and-white-thumbnail.png)
+* Final Idea [Current logo](https://w7.pngwing.com/pngs/305/972/png-transparent-united-states-logo-organization-information-service-daft-punk-angle-trademark-service-thumbnail.png)
+
+
+
+
+## Colour Schemes
 
 
 
