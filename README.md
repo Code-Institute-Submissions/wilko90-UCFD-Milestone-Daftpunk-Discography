@@ -18,6 +18,42 @@ future music releases.
 <h1>UX</h1>
 
 # Stratergy
+
+## Research
+
+__What does a user want to gain from browsing an Artists Discography?__
+
+"I want to know about future releases"<br>"I want to be able to browse and listen with a user friendly interface"<br> "I want to understand more about the artists history"
+
+## Competitor Review
+
+[All Music](https://www.allmusic.com/) - Difficult to navigate to audio content, not user friendly.
+
+[Daft Punk Fandom](https://daftpunk.fandom.com/wiki/List_of_Daft_Punk_releases) - Messy interface difficult too navigate, can easliy get lost.
+
+[Rate Your Music](https://rateyourmusic.com/artist/daft-punk) - No internal audio content, over crowded with information
+
+## Business approach
+### <ins>Mission Statment</ins>
+* What do you offer to your audience?
+* What makes your audience attracted to you?
+    * Provide quailty and self expression
+    * Increase brand awareness 
+
+### <ins>Introduction</ins>
+
+* Branding
+   * Make the branding eye catching, referable, attractive
+   * Match style of branding with pages, repetition on aestheics 
+   * Apply branding through out 
+* Introduction of the artists
+   * Create Small Bio
+   * Describe the evolution behind the artists
+* Outline professional goals
+
+
+
+
  
 This website is designed for fans to find all the information on the music duo's Discography in a simplistic user friendly webpage<br>
 Below you can find the following user stories that were brainstomred as part of the planning process. 
@@ -121,6 +157,11 @@ All wireframes are the core skelteton to aid in the planning process and are not
 -  [Discography Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/discography.png)
 -  [About Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/about.png)
 -  [Contact Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/contact.png)
+
+
+# Surface Plane
+
+
 
 
 # Features
