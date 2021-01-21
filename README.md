@@ -33,39 +33,49 @@ __What does a user want to gain from browsing an Artists Discography?__
 
 [Rate Your Music](https://rateyourmusic.com/artist/daft-punk) - No internal audio content, over crowded with information
 
-## Business approach
+## Business Approach
 ### <ins>Mission Statment</ins>
 * What do you offer to your audience?
 * What makes your audience attracted to you?
+* create online presence 
     * Provide quailty and self expression
-    * Increase brand awareness 
+    * Increase brand awareness
+    * showcase music content in a user freindly environment 
 
-### <ins>Introduction</ins>
+### <ins>Physical Features</ins>
 
 * Branding
    * Make the branding eye catching, referable, attractive
    * Match style of branding with pages, repetition on aestheics 
-   * Apply branding through out 
-* Introduction of the artists
-   * Create Small Bio
-   * Describe the evolution behind the artists
-* Outline professional goals
+   * Apply branding through out
+   * Minimalistic approach 
 
-
+* Content
+  * Intuative and eye catching design, minimal, interaction on every page 
+    * stylistic and colour co-ordination that matches the artists attire
+  * Intial minimal content but bold grabbing the users attention
+    * Provide more in depth content for user to explore 
+  * Call to action points easliy located and naviagle to engage user
+    * easy, user friendly proccess to start that inital contact   
 
 
  
-This website is designed for fans to find all the information on the music duo's Discography in a simplistic user friendly webpage<br>
-Below you can find the following user stories that were brainstomred as part of the planning process. 
 
 ### <ins>User stories</ins>
 
-* As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases  
-* As a visiting user I want to learn more about past releases and know where I can purchase there music 
-* As a visiting user I want to understand more about the music artists history
-* As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings
-* As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases
+This website is designed for fans to find all the information on the music duo's Discography in a simplistic user friendly webpage
+Below you can find the following user stories that were brainstomred as part of the planning process. 
 
+
+<span style="background-color: #B7950B">As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases</span>
+ 
+<span style="background-color: #B7950B">As a visiting user I want to learn more about past releases and know where I can purchase there music</span>
+
+<span style="background-color: #B7950B">As a visiting user I want to understand more about the music artists history</span>
+
+<span style="background-color: #B7950B">As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings</span>
+
+<span style="background-color: #B7950B">As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases</span>
 
 # Scope
 
