@@ -230,27 +230,35 @@ The nav bar Image and footer Image was designed by my girlfriend which was creat
 
 ## Visual Interactions
 
+### <ins>navbar</ins>
+
+The navbar links hover effects are applied to users only viewing with a desktop. To engage with the user a verticle white line sweeps under text when hoverd over. this small effect keeps the user engaged and assists with the minimalistic design. 
 
 
+### <ins>Social Links</ins>
 
+Large eye catcning social links found at each footer of the page painted light black with an off white background repeating the designs aesthetics for consistency. When the user hovers or engages with the link a subtle backgorund colour change too gold to encourage interaction.
 
+### <ins>Buttons and C2A</ins>
+
+Buttons posistioned in eye catching areas to encourage engagement. white text with a gold background when inactive but when engaged jumps to a slight off gold so the user knows his action has been Acknowledged. The most important call to action sitting at the top of the page (engages contact with user) highlighted white on a black background when interacted turns gold to match text written before.
 
 
 # Features
 
-- Desktop,tablet and mobile responsive giving the user flexability.
-- Simplistic design which will help users navigate through out the web page with ease.
-- Interactive header image that is displayed on all pages to remind the user of the brand and when clicked will navigate back to home page.
-- Clear call to action buttons allowing users to know what to do next and make that initial contact.
-- Social icons clearly makered at the foot of the page. Allowing the user to interact further with the artits social sites.
-- Media player with controls - lets the user be more interactive with 
-- Embeded video with controls - helps the user   
+## Exsiting
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+* Desktop,tablet and mobile responsive giving the user flexability.
+* Simplistic design which will help users navigate through out the web page with ease.
+* Interactive header image that is displayed on all pages to remind the user of the brand and when clicked will navigate back to home page.
+* Clear call to action buttons allowing users to know what to do next and make that initial contact.
+* Social icons clearly makered at the foot of the page. Allowing the user to interact further with the artits social sites.
+* Media player with controls - lets the user be more interactive with 
+* Embeded video with controls - helps the user   
+
+
+
+
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 

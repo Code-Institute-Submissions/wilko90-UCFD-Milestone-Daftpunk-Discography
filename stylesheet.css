@@ -76,6 +76,11 @@ body{
     
 }
 
+.fas, .fa-bars {
+    color:#F0F3F4 ;
+    font-size: 30px;
+}
+
 /*-----------------------------nav bar hover css*/
 .nav-link{ 
     position: relative;
