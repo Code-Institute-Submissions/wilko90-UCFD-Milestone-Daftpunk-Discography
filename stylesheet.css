@@ -13,6 +13,7 @@ body{
     flex-direction: column;
     background-color:#F0F3F4;
     font-family: "Roboto", sans-serif;
+    font-weight: 300;
     color: #212121 ;
 }
 
@@ -102,15 +103,16 @@ a .nav-link :before {
 }
 
 
-.display-4 {
-    color:#212121 ;
-}
 
 /*-----------------------------intro section homepage*/
 
 .text-muted{
 
     color:#616161 !important;
+}
+
+.display-4 {
+    color:#212121 ;
 }
 
 
@@ -289,6 +291,12 @@ a .nav-link :before {
     background-color: #F0F3F4 !important;
     padding-bottom: 40px;
     padding-top: 40px;
+}
+
+.contact-title{
+    font-size: 45px;
+    font-weight: 300;
+    line-height: 1.2;
 }
 
 /*-----------------------------footer*/

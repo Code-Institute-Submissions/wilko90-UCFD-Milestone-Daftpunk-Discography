@@ -74,15 +74,15 @@ This website is designed for fans to find all the information on the music duo's
 Below you can find the following user stories that were brainstomred as part of the planning process. 
 
 
-<span style="background-color: #B7950B">As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases</span>
+* As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases</span>
  
-<span style="background-color: #B7950B">As a visiting user I want to learn more about past releases and know where I can purchase there music</span>
+* As a visiting user I want to learn more about past releases and know where I can purchase there music</span>
 
-<span style="background-color: #B7950B">As a visiting user I want to understand more about the music artists history</span>
+* As a visiting user I want to understand more about the music artists history</span>
 
-<span style="background-color: #B7950B">As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings</span>
+* As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings</span>
 
-<span style="background-color: #B7950B">As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases</span>
+* As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases</span>
 
 # Scope
 
@@ -193,16 +193,17 @@ unfortuanly this image clashed with my over all theme, therefore I went for a mo
 
 A colour scheme is one of the first elements to communicate the message behind the design on both visual and psychological levels.
 The process of choosing my pallet was inspired with the artists costume choice from the album [Random Access Memories](https://en.wikipedia.org/wiki/Random_Access_Memories#/media/File:Random_Access_Memories.jpg) 
-which combinines black,white and gold, which achives a stylish, easy on the eye look. 
+which combinines black,white and gold, which achives a stylish, easy on the eye look. All colours were generated on [html Color Codes](https://htmlcolorcodes.com/color-picker/).
 
 <img src="static/images/colour-theme.png">
 
 The final colour choices where assesed with in the guidlines of [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG20/) Each colour was used with [Contrast Ratio](https://contrast-ratio.com/#%23212121-on-%23F0F3F4) and graded with in the guidlines of [W3](https://www.w3.org/TR/WCAG20/) .
 
-* Light black (#212121)aginst off white back ground(#F0F3F4) (AAA standard)
-* Light grey (#6C757D) against off white background (#F0F3F4) Which fails a (AA standard) by 4px. To fit in with my design ideas for a sleek finish I settled with a slight darker grey of #616161 (AA Standard)    
+* Light black (#212121)aginst off white back ground(#F0F3F4) (AAA Standard)
+* Light grey (#6C757D) against off white background (#F0F3F4) Which fails a (AA standard) by 4px. To fit in with my design ideas for a sleek finish I settled with a slight darker grey of #616161 (AA Standard)
+* Dark gold text (B7950B) against black backgorund (#212121) (AA Standard)    
 
-Below are the final colour choices. 
+Below are the final colour choices for my project
 
 * Background Colour is off white (#F0F3F4)
 * Primary Font Colour lighter shade of black (#212121)
@@ -211,9 +212,15 @@ Below are the final colour choices.
    * Hover CSS (#B7950B) 
    * Border (#fff)
 * Repeated call to action points at the head of the page
-  * Font colour dark gold (B7950B) whith a white off button (#F0F3F4)
-  * When hovered turns to dark gold (B7950B) to interact with the user. 
+  * Font colour dark gold (#B7950B) whith a white off button (#F0F3F4)
+  * When hovered turns to dark gold (#B7950B) to interact with the user. 
+* Social links light shade of black #212121) against off white backgorund (#F0F3F4)
+  * Hover CSS (#D4AC0D) 
 
+## Typography 
+
+[Roboto](https://fonts.google.com/specimen/Roboto) font was used to keep a minimalistic design through out my project to help maintain consistency. Font taken from [Google Fonts](https://fonts.google.com/)
+Font weght of 300 applied to dispay-4 and heading classes
 
 
 
