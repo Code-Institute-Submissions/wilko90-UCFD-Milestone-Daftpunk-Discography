@@ -220,7 +220,19 @@ Below are the final colour choices for my project
 ## Typography 
 
 [Roboto](https://fonts.google.com/specimen/Roboto) font was used to keep a minimalistic design through out my project to help maintain consistency. Font taken from [Google Fonts](https://fonts.google.com/)
-Font weght of 300 applied to dispay-4 and heading classes
+Font weights used from 300,400 and 500 for an easier reading experiance.
+
+## Images
+
+The majority of the images used come from various websites from  [google images](https://www.google.com/search?q=daft+punk&sxsrf=ALeKk01K83Y46gV6bW7IWsCVMwhTjz7ZIQ:1611326366247&source=lnms&tbm=isch&sa=X&ved=2ahUKEwibnbW94q_uAhWROcAKHdHzBFsQ_AUoAXoECBMQAw&biw=1590&bih=837&dpr=2)
+when you search daft punk, all images used will be credited in the credits section of my readme.
+The nav bar Image and footer Image was designed by my girlfriend which was created on an app called [Procreate](https://procreate.art/).
+
+## Visual Interactions
+
+
+
+
 
 
 
