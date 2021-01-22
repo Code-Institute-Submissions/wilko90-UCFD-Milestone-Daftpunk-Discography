@@ -1,7 +1,7 @@
 <h1 align="center">UCFD Milestone Project - Daft Punk's Discography Webpage</h1>
 
 
-<img src="static/images/responsive-layout.png" width= "">
+<img src="static/images/responsive-layout.png">
 
 This is front end only webpage that is designed for a French electornic music group called DaftPunk
 This webpage is designed for fans and followers to keep up to date with current and future music releases 
@@ -183,13 +183,37 @@ The branding Image or better known as a logo is a key aspect to draw attenttion 
 unfortuanly this image clashed with my over all theme, therefore I went for a more subtle and stylistic approach which complimented the theme of the project which the idea was taken from the 2013 album cover 
 "Random Access Memories". The logo was downloaded as a PNG for its transparency benefits. Logos where taken from a free to use website called [pngwing](https://www.pngwing.com/).
 
-* First Idea [Initial logo](https://w7.pngwing.com/pngs/659/114/png-transparent-daft-punk-logo-punk-rock-daft-punk-angle-text-black-and-white-thumbnail.png)
-* Final Idea [Current logo](https://w7.pngwing.com/pngs/305/972/png-transparent-united-states-logo-organization-information-service-daft-punk-angle-trademark-service-thumbnail.png)
+* First Idea - [Initial logo](https://w7.pngwing.com/pngs/659/114/png-transparent-daft-punk-logo-punk-rock-daft-punk-angle-text-black-and-white-thumbnail.png)
+* Final Idea - [Current logo](https://w7.pngwing.com/pngs/305/972/png-transparent-united-states-logo-organization-information-service-daft-punk-angle-trademark-service-thumbnail.png)
 
 
 
 
 ## Colour Schemes
+
+A colour scheme is one of the first elements to communicate the message behind the design on both visual and psychological levels.
+The process of choosing my pallet was inspired with the artists costume choice from the album [Random Access Memories](https://en.wikipedia.org/wiki/Random_Access_Memories#/media/File:Random_Access_Memories.jpg) 
+which combinines black,white and gold, which achives a stylish, easy on the eye look. 
+
+<img src="static/images/colour-theme.png">
+
+The final colour choices where assesed with in the guidlines of [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG20/) Each colour was used with [Contrast Ratio](https://contrast-ratio.com/#%23212121-on-%23F0F3F4) and graded with in the guidlines of [W3](https://www.w3.org/TR/WCAG20/) .
+
+* Light black (#212121)aginst off white back ground(#F0F3F4) (AAA standard)
+* Light grey (#6C757D) against off white background (#F0F3F4) Which fails a (AA standard) by 4px. To fit in with my design ideas for a sleek finish I settled with a slight darker grey of #616161 (AA Standard)    
+
+Below are the final colour choices. 
+
+* Background Colour is off white (#F0F3F4)
+* Primary Font Colour lighter shade of black (#212121)
+* Muted fonts (#616161)
+* Primary and secondary buttons are shades of gold (#D4AC0D)
+   * Hover CSS (#B7950B) 
+   * Border (#fff)
+* Repeated call to action points at the head of the page
+  * Font colour dark gold (B7950B) whith a white off button (#F0F3F4)
+  * When hovered turns to dark gold (B7950B) to interact with the user. 
+
 
 
 
