@@ -107,6 +107,10 @@ a .nav-link :before {
   transform: scaleX(1);
 }
 
+.ml-auto, .mx-auto{
+    text-align: center;
+}
+
 
 
 /*-----------------------------intro section homepage*/
