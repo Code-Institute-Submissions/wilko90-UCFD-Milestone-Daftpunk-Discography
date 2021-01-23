@@ -52,12 +52,17 @@ body{
     width: 100%;
     background-image: url(static/images/nav_bannenr_1.png) !important;
     background-size: cover;
+  
+
     
 
     
 }
 
+.sticky-top{
+    
 
+}
 
 .navbar{
     padding: 5px;
