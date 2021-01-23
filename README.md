@@ -260,19 +260,33 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 
 
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+### Features To Implement
 
-### Features Left to Implement
-- Another feature idea
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+### Languages Used
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+* [HTML](https://en.wikipedia.org/wiki/HTML) was used as the stanard mockup language to build my project.
+* [CSS](https://en.wikipedia.org/wiki/CSS) was used to style my website and Implement my ideas from the surface plane.
+* [Javascript](https://en.wikipedia.org/wiki/JavaScript) Small segments to help with the certain aspects. 
+
+### Frameworks, Libraries and Programmes
+
+* My Project was written and developed using [Gitpod](https://gitpod.io/workspaces/).
+* My projects uses [Github](https://github.com/) as a web based platfrom to store and host repositories.
+* The template I used was a guide made from [Code Institute](https://github.com/Code-Institute-Org/gitpod-full-template).
+* My project uses [Boot Strap](https://getbootstrap.com/) 4.5.2 to aid with responsive and mobile first design, it also aide me with small segments of Javascript.
+* [jquery](https://en.wikipedia.org/wiki/JQuery) 3.3.1 java script library, to help with the funcationality of certain bootstrap templates.
+* [popper.js](https://popper.js.org/) 1.14.3 Tool tip, posistioning engine.
+* The typography used in my project came from [google fonts](https://fonts.google.com/)
+* My project uses [Font Awsome](https://fontawesome.com/) v5.0.10 for icons and tool set kits.
+* The wireframes were made with a program called [balsamiq](https://balsamiq.com/)
+* My projects colour ratio was tested with [Contrast Ratio](https://contrast-ratio.com/)
+* My projects logo and typography was graded with [W3](https://www.w3.org/TR/WCAG/#contrast-minimum) guidelines.
+* To aid my css compatabilty for browser support I used [Auto Prefixer](https://autoprefixer.github.io/)
+* [Techsini](https://techsini.com/multi-mockup/index.php) A tool I used to show that my design is resposive at the head of my read me 
 
 
 ## Testing
