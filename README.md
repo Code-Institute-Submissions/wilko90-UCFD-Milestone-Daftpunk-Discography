@@ -248,13 +248,33 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 
 ## Exsiting
 
-* Desktop,tablet and mobile responsive giving the user flexability.
-* Simplistic design which will help users navigate through out the web page with ease.
-* Interactive header image that is displayed on all pages to remind the user of the brand and when clicked will navigate back to home page.
-* Clear call to action buttons allowing users to know what to do next and make that initial contact.
-* Social icons clearly makered at the foot of the page. Allowing the user to interact further with the artits social sites.
-* Media player with controls - lets the user be more interactive with 
-* Embeded video with controls - helps the user   
+* Desktop,tablet and mobile responsive
+   * All pages have been incorparated with Bootstraps built in `flexbox` tool allowing each web page to be responsove 
+   on all devices giving the user complete felixabilty on all screen sizes and resolutions. All features implemented have been 
+   adjusted to size where necceserry in the `stylesheet.css` using `@media` allowing you to not only vary viewport dimensions based on screen size, but allowing me to set different style properties for different devices.
+
+* Navigation bar
+   * The navigation bar at the head of every page with a custom designed background to match the websites theme. the navigatiuons bar allows users to navigate each page freely. 
+   `sticky-top` menus allows me to make sure the navigation access always visible to the user when browsing larger pages of content. All navbars have the artists logo attached with a clikable response 
+   sending the user back to the home page.
+
+* Footer
+   * Like with the navigation bar there is also a sticky footer at the foot of all webpages, mirroring the design of the navigation bar.
+   three interactive social links that are in sending the user in a new tab to the artists soical accounts.
+
+* Modals
+   * A modal is a dialog box/popup window that is displayed on top of each page. they help to free up content with out cluttering the surface. 
+   My modal is linked with a C2A allowing the user to sign up to a newsletter. making that initial point of contact extremely user friendly. 
+
+
+* Media Players
+   * Audio<br>
+   
+
+   * Video<br>
+   
+
+ 
 
 
 
@@ -286,8 +306,9 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 * My projects colour ratio was tested with [Contrast Ratio](https://contrast-ratio.com/)
 * My projects logo and typography was graded with [W3](https://www.w3.org/TR/WCAG/#contrast-minimum) guidelines.
 * To aid my css compatabilty for browser support I used [Auto Prefixer](https://autoprefixer.github.io/)
-* [Techsini](https://techsini.com/multi-mockup/index.php) A tool I used to show that my design is resposive at the head of my read me
- 
+* [Techsini](https://techsini.com/multi-mockup/index.php) A tool I used to show that my design is resposive at the head of my read me.
+* html and css code beautified with [minifycocde](http://minifycode.com/css-beautifier/).
+
 
 
 ## Testing
