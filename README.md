@@ -319,7 +319,17 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 
 
 ## Deployment
+### How my project was deployed
 
+1. Log in to [Github](https://github.com/)
+2. Click on the repository [UCFD-Milestone-Daftpunk-Discography](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography) 
+3. From the Repositories in sub-headings, select "Settings".
+
+4. Scroll down until you reach the heading `Github Pages`
+5. From the dropdown list under the "Source" heading, select "master".
+6. The second drop-down menu that appears should remain as "/root".
+7. Press save
+8. after the pages refreshes procceed to scroll back down to `Github Pages` when the link is avaliable it will be highlighted in green. 
 
 
 ## Credits
