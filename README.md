@@ -248,44 +248,44 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 
 ## Exsiting
 
-* Desktop,tablet and mobile responsive
+#### Desktop,tablet and mobile responsive
    * All pages have been incorparated with Bootstraps built in `flexbox` tool allowing each web page to be responsove 
    on all devices giving the user complete felixabilty on all screen sizes and resolutions. All features implemented have been 
    adjusted to size where necceserry in the `stylesheet.css` using `@media` allowing you to not only vary viewport dimensions based on screen size, but allowing me to set different style properties for different devices.
 
-* Navigation bar
+#### Navigation bar
    * The navigation bar at the head of every page with a custom designed background to match the websites theme. the navigatiuons bar allows users to navigate each page freely. 
    `sticky-top` menus allows me to make sure the navigation access always visible to the user when browsing larger pages of content. All navbars have the artists logo attached with a clikable response 
    sending the user back to the home page.
 
-* Footer
+#### Footer
    * Like with the navigation bar there is also a sticky footer at the foot of all webpages, mirroring the design of the navigation bar.
    three interactive social links that are in sending the user in a new tab to the artists soical accounts.
 
-* Modals
+#### Modals
    * A modal is a dialog box/popup window that is displayed on top of each page. they help to free up content with out cluttering the surface. 
    My modal is linked with a C2A allowing the user to sign up to a newsletter. making that initial point of contact extremely user friendly. 
 
 
-* Media Players
+#### Media Players
    * Audio<br>
    As my website is for users to be able to freely browse and listen to releases of the artists dicography. Audio snippets have been added to each release with added controls
    for users to play,pause,stop and alter the volume of media. 
 
    * Video<br>
-    video embedding into the browser with multiple tags that give more control over the video and player. You can play,stop,pause,make the screen full width of your device and download the media.
-    Multimedia of this variety is useful to site visitors who have literacy challenges and those with visual, audio or cognitive disabilities to help really understand the artists history.
-   
+    video embedding into the browser with multiple tags that give more control over the video and player. You can play,stop,pause,alter the volume,make the screen full width of your device and download the media.
+    Multimedia of this variety is useful to site visitors who have literacy challenges and those with visual, audio or cognitive disabilities.
 
  
-
-
-
-
-
-
 ### Features To Implement
+#### Processing the contact form
+* The informaton that the user submits will not process. with additonal Python or SQL language the data can then be processed and stored.
 
+#### CAPTCHA
+* Adding a [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) to the form to authenticate that a real person is submiting data. this will help block spammers and bots from collecting email addresses and submiting fake data.
+
+#### Forum/Discussion Area
+* Implementing a Discussion area is a great way to get users to return to your page. This will help create a communitiy where users will have a lot higher level of investment than a user just passing through. This feature could be Implemented into its own navigation tab so the returning user can naviugate easliy to the desired forum.
 
 ## Technologies Used
 
@@ -316,34 +316,10 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
 
 
 ## Credits
