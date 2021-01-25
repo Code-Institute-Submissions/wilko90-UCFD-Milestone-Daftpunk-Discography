@@ -269,9 +269,12 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 
 * Media Players
    * Audio<br>
-   
+   As my website is for users to be able to freely browse and listen to releases of the artists dicography. Audio snippets have been added to each release with added controls
+   for users to play,pause,stop and alter the volume of media. 
 
    * Video<br>
+    video embedding into the browser with multiple tags that give more control over the video and player. You can play,stop,pause,make the screen full width of your device and download the media.
+    Multimedia of this variety is useful to site visitors who have literacy challenges and those with visual, audio or cognitive disabilities to help really understand the artists history.
    
 
  
