@@ -276,6 +276,7 @@ a .nav-link:before {
 .padding-footer {
 	padding: 20px !important;
 }
+/*-----------------------------media-queries*/
 @media (max-width: 768px) {
 	.card-text {
 		font-size: 12px;
@@ -327,4 +328,13 @@ a .nav-link:before {
 		font-size: 10px;
 		border-radius: 5px;
 	}
+}
+@media (max-width: 280px){
+    .logo-image{
+        width: 170px;
+        height: 70px;
+    }
+    .display-4{
+        font-size: 26px;
+    }
 }
