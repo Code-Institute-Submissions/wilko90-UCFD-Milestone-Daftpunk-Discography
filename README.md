@@ -13,7 +13,7 @@ future music releases.
  This webpage is designed as part of my Code Institutes Full Stack Diploma, Please click the link below to view my webpage:
  [Click Here](https://wilko90.github.io/UCFD-Milestone-Daftpunk-Discography/)
 
- This project is developed using *HTML* and *CSS*, with a small bit of simple *Javascript* to aid with functiality. 
+ **This website is for eductional purposes only**
 
 <h1 align="center">UX</h1>
 
@@ -386,7 +386,26 @@ Files used for my project are downloaded from the contributors under the videos 
 The video media that is embeded in the `about` page came from a [Mixmag](https://www.facebook.com/watch/?v=10155297076736026) social media post.<br>
 **All the copyrights belong to the artists/or the performers**
 
+## Code
 
-### Acknowledgements
+* HTML/CSS Intercative Nav links came from an instructional [Youtube video](https://www.youtube.com/watch?v=IYTBAQRBsw0).
+* HTML [Bootstrap](https://getbootstrap.com/docs/4.0/components/carousel/.) carousel was used then edited by myself.
+* HTML/CSS instructional [Youtube](https://www.youtube.com/watch?v=gG3199-m6Sc) video how to make my footer stick to the bottom of the page
+* HTML [Bootstrap](https://getbootstrap.com/docs/4.0/examples/album/) template used then edited and styled appropriatly.
+* HTML/CSS Instructional [Youtube](https://www.youtube.com/watch?v=ghmtov3MnJE) video to help fix wrapping text around an Image.
+* Adding audio with [w3schools](https://www.w3schools.com/html/html5_audio.asp)
+* Adding video with [w3schools](https://www.w3schools.com/html/html5_video.asp)
 
-- I received inspiration for this project from X
+
+
+
+# Acknowledgements
+
+- The Idea for this project came from my own personal passion of collecting electoronic music from the 90's to present and reviewing them on my own social media account. I belive that DaftPunk are a massive contrbutor to why electronic music is so popular today and this game me the insperation to base my project around them.
+
+* Thank you to the slack community for guiding me in the right direction.
+
+* Thank you to the tutors at code institute for that quick and helpful responses.
+
+* Thank you to my girlfriend for supporting me through out my first project and giving me helpful feedback. 
+ 
