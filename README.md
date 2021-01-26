@@ -15,7 +15,7 @@ future music releases.
 
  This project is developed using *HTML* and *CSS*, with a small bit of simple *Javascript* to aid with functiality. 
 
-<h1>UX</h1>
+<h1 align="center">UX</h1>
 
 # Stratergy
 
@@ -34,7 +34,7 @@ __What does a user want to gain from browsing an Artists Discography?__
 [Rate Your Music](https://rateyourmusic.com/artist/daft-punk) - No internal audio content, over crowded with information
 
 ## Business Approach
-### <ins>Mission Statment</ins>
+### Mission Statment
 * What do you offer to your audience?
 * What makes your audience attracted to you?
 * create online presence 
@@ -45,13 +45,13 @@ __What does a user want to gain from browsing an Artists Discography?__
 
 
 
-### <ins>Branding</ins>
+### Branding
    * Make the branding eye catching, referable, attractive
    * Match style of branding with pages, repetition on aestheics 
    * Apply branding through out
    * Minimalistic approach 
 
-### <ins>Content</ins>
+### Content
   * Intuative and eye catching design, minimal, interaction on every page 
     * stylistic and colour co-ordination that matches the artists attire
   * Intial minimal content but bold grabbing the users attention
@@ -59,7 +59,7 @@ __What does a user want to gain from browsing an Artists Discography?__
   * Call to action points easliy located and naviagle to engage user
     * Easy, user friendly proccess to start that inital contact   
 
-### <ins>Pricing</ins>
+### Pricing
    * The database and site functionality are to remain free to use
       * Alternate links to buy from external source if user wants to engage further this is appernt to user with one click of a button 
    * No hidden fees or costs   
@@ -74,33 +74,33 @@ This website is designed for fans to find all the information on the music duo's
 Below you can find the following user stories that were brainstomred as part of the planning process. 
 
 
-* As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases</span>
+* `As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases`
  
-* As a visiting user I want to learn more about past releases and know where I can purchase there music</span>
+* `As a visiting user I want to learn more about past releases and know where I can purchase there music`
 
-* As a visiting user I want to understand more about the music artists history</span>
+* `As a visiting user I want to understand more about the music artists history`
 
-* As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings</span>
+* `As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings`
 
-* As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases</span>
+* `As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases`
 
 # Scope
 
 ## Website Requirements
 
-#### <ins>User Needs</ins>
+#### User Needs
 
 * Website is simple,user friendly, minimalistic design
 * Branding is bold, stands out, eye catching
 * Content to be navigable  
 
-#### <ins>Engagment</ins>
+#### Engagment
 
 * Call to action points clear and noticable
 * Engagement with a simplistic form
 * All pages keeps engagement clear and easy to locate over existing features. 
 
-#### <ins>Translates / Purpose</ins>
+#### Translates / Purpose
 
 * Main description of artists discography on home page
 * Make further details of artists discography on alternate pages
@@ -114,11 +114,11 @@ Below you can find the following user stories that were brainstomred as part of 
 * Engages user with artists logo/brand
 * Call to action point bold, stands out for initial contact
 * Proivides user with full break down of the artists 
-* <ins>User Aims</ins>
+* User Aims
     * Simplicity/navigable 
     * Attraction
     * Explains database
-* <ins>Artists Aims</ins>
+* Artists Aims
     * Strengthen following
     * Engagement
     * Understand the database   
@@ -128,11 +128,11 @@ Below you can find the following user stories that were brainstomred as part of 
 * Explain how the database works
 * Explain, store and orginasie artists collections
 * Consistent structure
-* <ins>User Aims</ins> 
+* User Aims 
     * Information easily attained
     * Presentation intuative
     * Good structure 
-* <ins>Artists Aims</ins>
+* Artists Aims
     * Sell the brand
     * Grow database
     * Clear on objective
@@ -142,11 +142,11 @@ Below you can find the following user stories that were brainstomred as part of 
 * Clear understanding of artists
 * Sustain users knowledge
 * User friendly/simple
-* <ins>User Aims</ins>
+* User Aims
    * Acquire information 
    * Understand the artists
    * Be curious 
-* <ins>Artists Aims</ins>
+* Artists Aims
    * Inform user
    * Create a meaningful relationship 
    * persuade user to engage further
@@ -156,17 +156,17 @@ Below you can find the following user stories that were brainstomred as part of 
 * Allows user to connect directly with a form
 * Simple and navigable point of contact
 * Linea naritve style interaction
-* <ins> Users Aims </ins>
+* Users Aims 
    * Ease of access 
    * Minimal data needed for initial engagement
    * Eye catching call to action
-* <ins> Arists Aims</ins>
+*  Arists Aims
    * Engagement
    * Aquire user Information/feedback
    * Understand your users
 
 # Skeleton Plane
-### <ins>Wireframes</ins>
+### Wireframes
 
 All wireframes are the core skelteton to aid in the planning process and are not the final look of the design. I recommend that the PNG's are downloaded to be viewed in your own browser.  
 
@@ -230,16 +230,16 @@ The nav bar Image and footer Image was designed by my girlfriend which was creat
 
 ## Visual Interactions
 
-### <ins>navbar</ins>
+### navbar
 
 The navbar links hover effects are applied to users only viewing with a desktop. To engage with the user a verticle white line sweeps under text when hoverd over. this small effect keeps the user engaged and assists with the minimalistic design. 
 
 
-### <ins>Social Links</ins>
+### Social Links
 
 Large eye catcning social links found at each footer of the page painted light black with an off white background repeating the designs aesthetics for consistency. When the user hovers or engages with the link a subtle backgorund colour change too gold to encourage interaction.
 
-### <ins>Buttons and C2A</ins>
+### Buttons and C2A
 
 Buttons posistioned in eye catching areas to encourage engagement. white text with a gold background when inactive but when engaged jumps to a slight off gold so the user knows his action has been Acknowledged. The most important call to action sitting at the top of the page (engages contact with user) highlighted white on a black background when interacted turns gold to match text written before.
 
@@ -287,7 +287,7 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 #### Forum/Discussion Area
 * Implementing a Discussion area is a great way to get users to return to your page. This will help create a communitiy where users will have a lot higher level of investment than a user just passing through. This feature could be Implemented into its own navigation tab so the returning user can naviugate easliy to the desired forum.
 
-## Technologies Used
+# Technologies Used
 
 ### Languages Used
 
@@ -314,12 +314,12 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 
 
 
-## Testing
+# Testing
 
 Please click here for full testing section. 
 
 
-## Deployment
+# Deployment
 ### How my project was deployed
 
 1. Log in to [Github](https://github.com/)
@@ -354,12 +354,38 @@ For more Information have a look at the officilal git hub page on cloning a repo
 7. search your system to locate unzipped file. 
 
 
-## Credits
+# Credits
 
-### Content
+## Written Content
 
-### Media
-- The photos used in this site were obtained from ...
+* The `<p>` section loacted in the `about` page came from [wikipedia](https://en.wikipedia.org/wiki/Daft_Punk) then edited by myself. 
+* Quote located at the top of the `contact` page came from lyrics of the album [Random Access Memories](https://en.wikipedia.org/wiki/Random_Access_Memories)
+* `<p>` under the headings in `discogrpahy` and `about` pages came from the Artist Biography by Sean Cooper.
+
+* All other content is written by myself.
+
+## Media
+### Images
+The Images used in this site were obtained from mulitple sources I made from google searches that are free to download. below are the links.
+
+* Logo - [pngwing](https://www.pngwing.com/).
+* Carousel Image one - [Deviant Art](https://www.deviantart.com/) artist Dessins-Fantastiques
+* Carousel Image two - [Deviant Art](https://www.deviantart.com/) artist GoblinFish
+* carousel Image three - [PBS](https://pbs.twimg.com/media/DiuP5uyWAAAcJFf.jpg)
+* All disocgraphy Images on `home` and `disocography` page came from various contributors on [Discogs](www.discogs.com)
+* Thomas Bangalter Image on `home` page came from th article -[Factmag](https://www.factmag.com/2018/10/29/thomas-bangalter-riga-take-5/)
+* Guy-Manuel de Homem-Christo Image on `home` page came from the article [Consequence of Sound](https://consequenceofsound.net/2015/02/daft-punks-guy-manuel-de-homem-christo-contributes-new-music-to-french-action-film-co-starring-mike-tyson/)
+* Image on the `about` page came from [pngwing](https://www.pngwing.com/)
+* favicon came from [Iconfinder](https://www.iconfinder.com/)
+
+### Audio 
+Files used for my project are downloaded from the contributors under the videos section at [Discogs](https://www.discogs.com/artist/1289-Daft-Punk) then added to [Audio Trimmer](https://audiotrimmer.com/) to cut in too smaller samples.<br>
+**All the copyrights belong to the artists/or the performers**.
+
+### Video
+The video media that is embeded in the `about` page came from a [Mixmag](https://www.facebook.com/watch/?v=10155297076736026) social media post.<br>
+**All the copyrights belong to the artists/or the performers**
+
 
 ### Acknowledgements
 
