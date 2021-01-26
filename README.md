@@ -331,6 +331,19 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 7. Press save
 8. after the pages refreshes procceed to scroll back down to `Github Pages` when the link is avaliable it will be highlighted in green. 
 
+### How to Clone a repository
+1. Log in to [Github](https://github.com/)
+2. Click on the respository [UCFD-Milestone-Daftpunk-Discography](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography) 
+3. Navigate to the list of files and click the button `Code`
+4. To clone the repository using HTTPS copy the link below either manually or with the clipboard icon. (https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography.git) 
+5. Open your prefered IDE software e.g [Atom](https://atom.io/) or [PhyCharm](https://www.jetbrains.com/pycharm/)
+6. Create a directory where you would like your clone to be stored.
+7. Type `git clone`, and then paste the URL you copied earlier(https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography.git)
+8. Press `Enter` to create your clone   
+
+For more Information have a look at the officilal git hub page on cloning a repository [Click here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+
+
 
 ## Credits
 
