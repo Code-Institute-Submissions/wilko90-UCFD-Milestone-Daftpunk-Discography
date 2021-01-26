@@ -316,6 +316,7 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 
 ## Testing
 
+Please click here for full testing section. 
 
 
 ## Deployment
@@ -343,12 +344,19 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 
 For more Information have a look at the officilal git hub page on cloning a repository [Click here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
 
+### Manually downloading
+1. Log in to Github
+2. Click on the respository [UCFD-Milestone-Daftpunk-Discography](https://github.com/wilko90/
+3. Navigate to the list of files and click the button `Code`
+4. Select `Download Zip`
+5. A downloaded zip file will be stored on your computer, Unzip this file, the contents should open as a folder.
+6. Open your prefered IDE software
+7. search your system to locate unzipped file. 
 
 
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
 - The photos used in this site were obtained from ...
