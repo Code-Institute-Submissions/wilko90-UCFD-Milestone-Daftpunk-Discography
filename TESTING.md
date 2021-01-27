@@ -47,10 +47,10 @@ The call to action that the user is presented with when they arrive to the site 
 
 Mobile resposivenes is extremly important to maintaing constent traffic towards a webpage as there are nearly six billion mobile users in the world today. (stat pulled from [99 Designs](https://99designs.co.uk/blog/tips/responsive-web-design-key-tips-and-approaches/)) Intial testing that my webpage was fully responsive was used with [Google Dev Tools](https://developers.google.com/web/tools/chrome-devtools) which can be accessed using a chrome browser by right clicking on your mouse and clicking Inspect. With in this feature you can toggle towards the device tool bar which will list various tablet and mobile screen sizes to test that your webpage is repsonsive on specific device. The testing criteria below was considered on all pages avliable to the user.
 
-* Ensure that every page runs fluid with each other, and each feature remains remains static and inline.
+* Ensure that every page runs fluid with each other, and each feature remains remains dynamic and inline.
 * Text, controls, and images must be aligned and properly placed across the site.
 * The content location should be dynamic as screen resolution changes.
-* The clickable area must be well-adjusted and of suitable sizing
+* Buttons must be well-adjusted and of suitable sizing
 * Color, shading, and gradient must be consistent through out.
 * All text remaines readable on all devices.
 
@@ -66,4 +66,32 @@ Mobile resposivenes is extremly important to maintaing constent traffic towards 
   * Slide indicators are removed when viewing on screen sizes of 576px and below.
 * Display-4 title and paragraph text below remains readable, centered and static
 * Discogrpahy sample images are split into different coloumns within respective viewports and are dynamic with each other.
-  * 
+  * Titles are readable centered and inline.
+  * Media controls are centerd and sit fluid with image and text.
+* Artists Image cards remains with in the margins and doesnt overflow.
+  * Text has reduced in size for viewpiorts of 768px and below also centered.
+  * `Click for Bio` buttons are sized inline with text and headings.
+* Social heading "connect" and link icons are reduced in size for smaller viewports and remain responsive to all devices.
+
+### Discography
+* Titles are readable centered and inline.
+* Discography Images cards are dynamic, margins inline and resolution still looks clean.
+  * Text is alligned and centered.
+  * Media controls allinded and centred. 
+  * `Link to buy` button text and border radius reduced in 768px and reduced again in 576px.
+
+### About
+* Text to wrap around Image fluidly be readable and alinged correctly on large and medium view points.
+* Image aligned to the left of the page siting on text with correct margin.
+  * Image removed when viewed on small viewports.
+* Evolution video with appropriate padding for all viewports and alligned neatly.
+  * controls to reduce in size and remain dynamic and fluid with padding
+  * On smaller viewports it is recomended the user to view the media in full screen.
+
+### Contact
+* Call to action title and button removed
+* Ensure that the "Contact us" and "Newsletter" sections sit in appropriate coloumns, 
+  * On smaller Viewports both sections sit neatly in a stacked view
+  * text content to reduce in size but remain readbale in small viewpoints
+  * `Send` and `Subscribe` buttons reduce in size when viewed in a small viewpoint.  
+

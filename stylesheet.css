@@ -315,7 +315,10 @@ a .nav-link:before {
 	}
 	.connect-heading {
 		font-size: 24px;
-	}
+    }
+    .contact-title{
+        font-size: 26px;
+    }
 }
 @media (max-width: 576px) {
 	.carousel-indicators {
@@ -327,7 +330,14 @@ a .nav-link:before {
 	.btn-secondary {
 		font-size: 10px;
 		border-radius: 5px;
-	}
+    }
+    .btn-group-lg>.btn, .btn-lg{
+        font-size: 14px;
+    }
+    .p-font-size{
+        font-size: 14px;
+    }
+    
 }
 @media (max-width: 280px){
     .logo-image{
