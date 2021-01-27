@@ -351,7 +351,8 @@ For more Information have a look at the officilal git hub page on cloning a repo
 4. Select `Download Zip`
 5. A downloaded zip file will be stored on your computer, Unzip this file, the contents should open as a folder.
 6. Open your prefered IDE software
-7. search your system to locate unzipped file. 
+7. search your system to locate unzipped file.
+8. Run the file. 
 
 
 # Credits
@@ -406,6 +407,8 @@ The video media that is embeded in the `about` page came from a [Mixmag](https:/
 * Thank you to the slack community for guiding me in the right direction.
 
 * Thank you to the tutors at code institute for that quick and helpful responses.
+
+* Thank you to my mentor Rohit for giving me pointers along the way.
 
 * Thank you to my girlfriend for supporting me through out my first project and giving me helpful feedback. 
  
