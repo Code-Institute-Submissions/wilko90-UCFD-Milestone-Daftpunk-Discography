@@ -76,11 +76,11 @@ Below you can find the following user stories that were brainstomred as part of 
 
 * `As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases`
  
-* `As a visiting user I want to learn more about past releases and know where I can purchase there music`
+* `As a visiting user I want to learn more about where I can purchase there music`
 
 * `As a visiting user I want to understand more about the music artists history`
 
-* `As a visiting user I want to be directed easily to the duos social media where I can contact them for any potential bookings`
+* `As a visiting user I want to be directed easily to the duos social media pages`
 
 * `As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases`
 
