@@ -40,3 +40,30 @@ The call to action that the user is presented with when they arrive to the site 
 * keeping things extremly user friendly the user will only need to interact twice to register by inputting there email address then submiting by clicking the gold `Sing Up` button.
 * alternativly for the user to obtain a more personal response they can submit an equiry that ois located in the `contact` page on the navbar.
 * Both form and newsletter requieres the correct information to be  inputed or the user will no be able to submit there data.    
+
+# Features Testing
+
+## Desktop,tablet and mobile responsive
+
+Mobile resposivenes is extremly important to maintaing constent traffic towards a webpage as there are nearly six billion mobile users in the world today. (stat pulled from [99 Designs](https://99designs.co.uk/blog/tips/responsive-web-design-key-tips-and-approaches/)) Intial testing that my webpage was fully responsive was used with [Google Dev Tools](https://developers.google.com/web/tools/chrome-devtools) which can be accessed using a chrome browser by right clicking on your mouse and clicking Inspect. With in this feature you can toggle towards the device tool bar which will list various tablet and mobile screen sizes to test that your webpage is repsonsive on specific device. The testing criteria below was considered on all pages avliable to the user.
+
+* Ensure that every page runs fluid with each other, and each feature remains remains static and inline.
+* Text, controls, and images must be aligned and properly placed across the site.
+* The content location should be dynamic as screen resolution changes.
+* The clickable area must be well-adjusted and of suitable sizing
+* Color, shading, and gradient must be consistent through out.
+* All text remaines readable on all devices.
+
+### Home page
+* Call to action button is visable on tablets and Desktop.
+  * Call to action dissaperes on mobile devices but reapers when device is horizontal. 
+* Logo and navbar icon are visable and allinged
+  * Navbar contents when collapsed is centerd and remains fluid with content benieth.
+  * Navbar text is the correct colour and sizeing is proportionate.
+  * Nav bar icon on screen sizes of 280px or less remains inline with logo 
+* Carousel is active and inline with content above and below.
+  * Images resolution remains intact.
+  * Slide indicators are removed when viewing on screen sizes of 576px and below.
+* Display-4 title and paragraph text below remains readable, centered and static
+* Discogrpahy sample images are split into different coloumns within respective viewports and are dynamic with each other.
+  * 
