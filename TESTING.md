@@ -102,8 +102,8 @@ All functions below were tested on every page with dektop,tablet and mobile devi
 * Ensure that the modal is displayed centraly above the navbar 
 * Ensure that the modal apperars centraly once activated
 * Ensure that you can exit with by clicking the cross 
-* Ensure sure you can exit by clicking "esc" on your keyboard 
-* Ensure you can exit by clicking wiht your cursor away from pop up
+* Ensure sure you can exit by clicking `esc` on your keyboard 
+* Ensure you can exit by clicking with your cursor away from pop up
 * Ensure that all text is visable and readable
 * That the `Sign Up` button is visable, correct colour and the hover class is active.
 * Ensure that the `Sign Up` button is clickable 
@@ -118,10 +118,10 @@ All functions below were tested on every page with dektop,tablet and mobile devi
 All functions below were tested on every page with dektop,tablet and mobile devices.
 
 * All navigation links are active and send user correctly to there desired location
-  * Home-Discography-About-Contact
-  * Discography-About-Contact-Home
-  * About-Contact-Home-Discography
-  * Contact-Home-Discography-About
+  * `Home`-`Discography`-`About`-`Contact`
+  * `Discography`-`About`-`Contact`-`Home`
+  * `About`-`Contact`-`Home`-`Discography`
+  * `Contact`-`Home`-`Discography`-`About`
 * Ensure All navigation links are in correct order on all active links 
 * Ensure that the logo Image is active and once clicked always revert back to the `home`page
   * This was tested on all pages
@@ -158,17 +158,47 @@ All Functions below were tested on every page with dektop,tablet and mobile devi
 ### Audio
  All functions below were tested on every page with dektop,tablet and mobile devices.
  * Media Does not start unless interacted with
- * Media controls visable
-   * Play,Pause,Volume, scrubbing toggle,download option
+ * Media controls visable,static and are responsive in lower viewports, tablet and mobile
+   * `Play`,`Pause`,`volume`, `scrubbing toggle`,`download` option
 * Correct Media is linked with the correct player
-* Media starts when play button is intiated
-* Media pauses when pause button is intiated
-* media mutes when mute button is intiated
-* Volume controls when intated lower or increase volume (only on desktop)
+* Media starts when `play` button is intiated
+* Media pauses when `pause` button is intiated
+* media mutes when `mute` button is intiated
+* `Volume toggle` when intated lower or increase volume (only on desktop)
 * Media can be scrubbed forwards and backwards with toggle
+* Media downloads when download button is initiated.
 * Media player compatiable with Safari,Chrome,Mozzila,Internet Explorer (tested on latest versions)
 * Uncompatable browser text does not show unless uncompatble. (Uncompatablelity I couldnt test as all testing was done on the latest verions of specific web browsers so audio worked. here is a link with browsers that support the `audio` and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).
 
 ### video
  All functions below were tested on every page with dektop,tablet and mobile devices.
-* 
+* Media doesn not play unless intiated
+* Media is visable,static and are responsive in lower viewports, tablet and mobile
+* Media controls are viusable
+ * `Play`,`pause`,`scrubbing toggle`,`mute`,`volume bar` to increase audio higher,lower(desktop only) Fullscreen option, download option.
+* media starts when `play` button is intiated
+* Media pauses when `pause` button is intiated
+* Sound stops when `mute` buton is initiated
+  * Sound starts when `mute` button is off
+* Volume toggle increaes and decreases volume (desktop only)
+* Media can be moved forwards or backwards with scrubbing toggle
+* Fullscreen option opens when initated 
+* Media downloads when `download` button is initated
+* Media player compatiable with Safari,Chrome,Mozzila,Internet Explorer (tested on latest versions)
+*Uncompatable browser text does not show unless uncompatble. (Uncompatablelity I couldnt test as all testing was done on the latest verions of specific web browsers so audio worked. here is a link with browsers that support the `audio` and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).   
+
+## Further Testing 
+
+### Forms 
+
+All functions below were tested on every page with dektop,tablet and mobile devices.
+
+* Ensure the form text is readable and centered in container
+* Ensure all place holder text is in thge correct sections
+* Ensure that the `Send` button is visable, centered and the hover styling is active
+* Ensure when `Send` button is intiated with out any input in the text fields that an error message appears '! Please fill in this field'.
+* Ensure all fields need appropriate data added before submiting  
+  * Valid Email address with @ in email field 
+  * Number required in number field  
+  * Text in Name field
+  * Text in Queiry field
