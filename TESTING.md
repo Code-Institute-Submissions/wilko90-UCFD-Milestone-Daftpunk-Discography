@@ -164,8 +164,11 @@ All Functions below were tested on every page with dektop,tablet and mobile devi
 * Media starts when play button is intiated
 * Media pauses when pause button is intiated
 * media mutes when mute button is intiated
-* Volume controls when intated lower or increase volume
+* Volume controls when intated lower or increase volume (only on desktop)
 * Media can be scrubbed forwards and backwards with toggle
 * Media player compatiable with Safari,Chrome,Mozzila,Internet Explorer (tested on latest versions)
 * Uncompatable browser text does not show unless uncompatble. (Uncompatablelity I couldnt test as all testing was done on the latest verions of specific web browsers so audio worked. here is a link with browsers that support the `audio` and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).
 
+### video
+ All functions below were tested on every page with dektop,tablet and mobile devices.
+* 
