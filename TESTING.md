@@ -95,3 +95,39 @@ Mobile resposivenes is extremly important to maintaing constent traffic towards 
   * text content to reduce in size but remain readbale in small viewpoints
   * `Send` and `Subscribe` buttons reduce in size when viewed in a small viewpoint.  
 
+## Modal Testing
+
+All testing below were tested on dektop,tablet and mobile devices.
+
+* Ensure that the modal is displayed centraly above the navbar 
+* Ensure that the modal apperars centraly once activated
+* Ensure that you can exit with by clicking the cross 
+* Ensure sure you can exit by clicking "esc" on your keyboard 
+* Ensure you can exit by clicking wiht your cursor away from pop up
+* Ensure that all text is visable and readable
+* That the `Sign Up` button is visable, correct colour and the hover class is active.
+* Ensure that the `Sign Up` button is clickable 
+* Ensure that the place holder text dissapears when user is inputting data
+* If no data is inputted but user clicks submit that an error message is dispalayed "! please fill in this field"
+* Ensure that if the user does not enter a valid email address with an "@" a error message appers when submited "! please inlcude a '@'"
+* Ensure that once submited the user is divited back to there current webpage.
+
+## Navigation Bar 
+
+All testing below was tested on desktop,tablet and mobile devices 
+
+* All navigation links are active and send user correctly to there desired location
+  * Home-Discography-About-Contact
+  * Discography-About-Contact-Home
+  * About-Contact-Home-Discography
+  * Contact-Home-Discography-About
+* Ensure that the logo Image is active and once clicked always revert back to the `home`page
+  * This was tested on all pages
+* Ensure that the navigation links Hover classes are active and underline with a white line once interacted with.
+* Ensure that the navigation background Image is dynamic and the resouluton is not pixalated.
+* Ensure the navbar height is consistent bewteen pages
+* Ensure that Navigation links do not open in a new tab.
+* Ensure the Navbar remains sticky 
+
+
+
