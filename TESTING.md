@@ -167,7 +167,7 @@ All Functions below were tested on every page with dektop,tablet and mobile devi
 * `Volume toggle` when intated lower or increase volume (only on desktop)
 * Media can be scrubbed forwards and backwards with toggle
 * Media downloads when download button is initiated.
-* Media player compatiable with Safari,Chrome,Mozzila,Internet Explorer (tested on latest versions)
+* Media player compatiable with Safari,Chrome,Mozzila,Microsoft edge (tested on latest versions)
 * Uncompatable browser text does not show unless uncompatble. (Uncompatablelity I couldnt test as all testing was done on the latest verions of specific web browsers so audio worked. here is a link with browsers that support the `audio` and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).
 
 ### video
@@ -184,7 +184,7 @@ All Functions below were tested on every page with dektop,tablet and mobile devi
 * Media can be moved forwards or backwards with scrubbing toggle
 * Fullscreen option opens when initated 
 * Media downloads when `download` button is initated
-* Media player compatiable with Safari,Chrome,Mozzila,Internet Explorer (tested on latest versions)
+* Media player compatiable with Safari,Chrome,Mozzila,microsoft edge (tested on latest versions)
 *Uncompatable browser text does not show unless uncompatble. (Uncompatablelity I couldnt test as all testing was done on the latest verions of specific web browsers so audio worked. here is a link with browsers that support the `audio` and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).   
 
 ## Further Testing 
@@ -202,3 +202,8 @@ All functions below were tested on every page with dektop,tablet and mobile devi
   * Number required in number field  
   * Text in Name field
   * Text in Queiry field
+
+# Browser Testing
+All browser testing was done with the same method above
+
+## 

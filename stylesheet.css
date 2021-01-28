@@ -94,9 +94,11 @@ a .nav-link:before {
 	-ms-transform: scaleX(1);
 	transform: scaleX(1);
 }
-.ml-auto,
-.mx-auto {
+.ml-auto,.mx-auto {
 	text-align: center;
+}
+.nav-link .current{
+    color: #D4AC0D;
 }
 /*-----------------------------intro section homepage*/
 
