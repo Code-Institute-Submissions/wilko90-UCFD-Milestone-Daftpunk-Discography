@@ -97,7 +97,7 @@ Mobile resposivenes is extremly important to maintaing constent traffic towards 
 
 ## Modal Testing
 
-All testing below were tested on dektop,tablet and mobile devices.
+All functions below were tested on every page with dektop,tablet and mobile devices.
 
 * Ensure that the modal is displayed centraly above the navbar 
 * Ensure that the modal apperars centraly once activated
@@ -111,25 +111,61 @@ All testing below were tested on dektop,tablet and mobile devices.
 * If no data is inputted but user clicks submit that an error message is dispalayed "! please fill in this field"
 * Ensure that if the user does not enter a valid email address with an "@" a error message appers when submited "! please inlcude a '@'"
 * Ensure that once submited the user is divited back to there current webpage.
+* Ensure the modal is not displayed when on the Contact page.
 
 ## Navigation Bar 
 
-All testing below was tested on desktop,tablet and mobile devices 
+All functions below were tested on every page with dektop,tablet and mobile devices.
 
 * All navigation links are active and send user correctly to there desired location
   * Home-Discography-About-Contact
   * Discography-About-Contact-Home
   * About-Contact-Home-Discography
   * Contact-Home-Discography-About
+* Ensure All navigation links are in correct order on all active links 
 * Ensure that the logo Image is active and once clicked always revert back to the `home`page
   * This was tested on all pages
-* Ensure that the navigation links Hover classes are active and underline with a white line once interacted with.
-* Ensure that the navigation background Image is dynamic and the resouluton is not pixalated.
+* Ensure that the navigation links Hover classes are active and underline with a white line once interacted with when in desptop view.
+* Ensure that the navigation background Image static and the resouluton is high.
 * Ensure the navbar height is consistent bewteen pages
 * Ensure that Navigation links do not open in a new tab.
 * Ensure the Navbar remains sticky when scrolling down the webpage
 * Ensure that the relative active link remains different from inactive links
-*  
+* Ensure logo remains same size when viewed on tablet and mobile device
+* Ensure Burger icon activates when in mobile device or small viewports
+* Ensure burger icon collapses when active and navigation links appear,centered and readable.
+* Ensure Burger Navigation links dissapear when burger icon Is not active
 
 
+
+## Footer
+
+All Functions below were tested on every page with dektop,tablet and mobile devices.
+
+* Ensure footer is posisitoned at the bottom of every page
+* Ensure the hover styling is active when cursor is active on soical links (desktop)
+* Ensure each social link sends to correct destination
+  * Facebook-Facebook
+  * Instagram-Instagram
+  * Youtube-Youtube
+* Ensure each social site appears in a new tab
+* Ensure footer reamins static on all viewports
+* Ensure Social links remain in the correct order on all links
+ * Facbook-Instagram-Youtube
+
+## Media Players
+
+### Audio
+ All functions below were tested on every page with dektop,tablet and mobile devices.
+ * Media Does not start unless interacted with
+ * Media controls visable
+   * Play,Pause,Volume, scrubbing toggle,download option
+* Correct Media is linked with the correct player
+* Media starts when play button is intiated
+* Media pauses when pause button is intiated
+* media mutes when mute button is intiated
+* Volume controls when intated lower or increase volume
+* Media can be scrubbed forwards and backwards with toggle
+* Media player compatiable with Safari,Chrome,Mozzila,Internet Explorer (tested on latest versions)
+* Uncompatable browser text does not show unless uncompatble. (Uncompatablelity I couldnt test as all testing was done on the latest verions of specific web browsers so audio worked. here is a link with browsers that support the `audio` and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).
 
