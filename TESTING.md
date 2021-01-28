@@ -127,7 +127,9 @@ All testing below was tested on desktop,tablet and mobile devices
 * Ensure that the navigation background Image is dynamic and the resouluton is not pixalated.
 * Ensure the navbar height is consistent bewteen pages
 * Ensure that Navigation links do not open in a new tab.
-* Ensure the Navbar remains sticky 
+* Ensure the Navbar remains sticky when scrolling down the webpage
+* Ensure that the relative active link remains different from inactive links
+*  
 
 
 
