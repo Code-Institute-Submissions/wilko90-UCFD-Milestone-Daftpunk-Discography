@@ -258,6 +258,11 @@ css validation errors
 
 ## Google Light House Testing
 
-This feature is an open source automated too for measuringthe quality of a webpage.
+This feature is an open source automated too for measuring the quality of a webpage.
 
 
+## Home page
+
+<img src="static/images/lighthouse-home.png">
+
+## Discography Page 
