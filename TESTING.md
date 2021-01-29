@@ -228,4 +228,12 @@ The Responsive test on safari was done by enabling the built in "responsive mode
  ## Internet Explorer 
 
 
- # Automated Testing
+ # Validation Testing
+
+### Validation tetsing was done with two third party applicaitons  [W3 Validator](https://validator.w3.org/) for html and [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) for the testing of css
+
+### html Validation Errors
+
+<img src="static/images/w3-validator.png">
+
+* Fixed by removing the `target="_blank"` from the `<i>` tag 
