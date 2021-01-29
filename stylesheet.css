@@ -29,23 +29,27 @@ body {
 
 .alert-container .col-12 {
 	padding-left: 0;
-	padding-right: 0;
+    padding-right: 0;
+    
 }
 .site-wide-alert {
-	border-radius: 0;
+    border-radius: 0;
 	margin-bottom: 0;
 	padding: 0;
 	background-color: #212121;
 	border-color: #212121;
 	text-align: center;
-	color: #B7950B;
+    color: #B7950B;
+    
 }
 /*-----------------------------nav bar*/
 
 .banner-image {
 	width: 100%;
 	background-image: url(static/images/nav_bannenr_1.png) !important;
-	background-size: cover;
+    background-size: cover;
+    display: -webkit-box;
+    
 }
 .navbar {
 	padding: 5px;

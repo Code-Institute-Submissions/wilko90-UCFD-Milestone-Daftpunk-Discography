@@ -206,4 +206,15 @@ All functions below were tested on every page with dektop,tablet and mobile devi
 # Browser Testing
 All browser testing was done with the same method above
 
-## 
+## Chrome-Microsoft Edge 
+* All testing approved
+
+## Firefox
+* No download button on audio or video players
+  * Instead its requiered that you right click and 'save as' to download 
+* All other testing approved
+
+## Safari
+
+
+ 
