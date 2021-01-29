@@ -230,10 +230,34 @@ The Responsive test on safari was done by enabling the built in "responsive mode
 
  # Validation Testing
 
-### Validation tetsing was done with two third party applicaitons  [W3 Validator](https://validator.w3.org/) for html and [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) for the testing of css
+### Validation tetsing was done with two third party applicaitons  [W3 Validator](https://validator.w3.org/) for `html` and [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) for testing `css`.
 
-### html Validation Errors
+### html validation Errors
 
 <img src="static/images/w3-validator.png">
 
 * Fixed by removing the `target="_blank"` from the `<i>` tag 
+
+<img src="static/images/w3-validator2.png">
+
+* Fixed by changing `aria-labelledbye` class too `aria-label` tip from [Stack Overflow](https://stackoverflow.com/questions/39831658/how-to-fix-the-aria-labelledby-attribute-must-point-to-an-element-in-the-same-d)
+
+* No other errors present 
+
+### css validation errors 
+
+css validation errors 
+
+<img src="static/images/jigsaw-validator.png">
+
+* After reseraching the issue the css validator sometimes does not recognise prefixed properties. During my tetsing fase I did not encounter any errors beacsue of this.
+
+<img src="static/images/jigsaw-validator2.png">
+
+* Error above is due to a built in bootstrap css class. Researched here at [Stack Overflow ](https://stackoverflow.com/questions/51495866/bootstrap-4-0-0-fail-w3c-validation).
+
+## Google Light House Testing
+
+This feature is an open source automated too for measuringthe quality of a webpage.
+
+
