@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 /*-----------------------------Fonts*/
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
@@ -21,8 +28,6 @@ body {
 	font-weight: 300;
 	color: #212121;
 }
-/*-----------------------------Text and headings colours/
-
 
 
 /*-----------------------------sign up alert*/

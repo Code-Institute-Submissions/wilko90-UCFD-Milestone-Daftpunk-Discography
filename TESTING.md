@@ -205,6 +205,7 @@ All functions below were tested on every page with dektop,tablet and mobile devi
 
 # Browser Testing
 All browser testing was done with the same method above
+* Problems usually rise when my css was not compatable with most browsers, running my css code through a [Auto-Prefixer](https://autoprefixer.github.io/) solved these compatablity issues.
 
 ## Chrome-Microsoft Edge 
 * All testing approved
@@ -215,6 +216,16 @@ All browser testing was done with the same method above
 * All other testing approved
 
 ## Safari
+The Responsive test on safari was done by enabling the built in "responsive mode" tag thats enabled via the advance settings.
+* Stacking issues with the navbar
+  * Fix by adding a `display: -webkit-box;` to `.banner-image` class.
+  * Fix found at [Stackoverflow](https://stackoverflow.com/questions/35137085/flexbox-code-working-on-all-browsers-except-safari-why)
+* No volume controls on audio media player
+* No Download button
+  * Required to right click and 'Download'
+* All other testing approved 
+
+ ## Internet Explorer 
 
 
- 
+ # Automated Testing
