@@ -99,6 +99,8 @@ Mobile resposivenes is extremly important to maintaing constent traffic towards 
 
 All functions below were tested on every page with dektop,tablet and mobile devices.
 
+As the modal is only for demonstration purposes, the content submited will not be registered and the user will be shown an error "405" message resulting in the user pressing the back button to be returned to the page. 
+
 * Ensure that the modal is displayed centraly above the navbar 
 * Ensure that the modal apperars centraly once activated
 * Ensure that you can exit with by clicking the cross 
@@ -270,7 +272,7 @@ css validation errors
 
 ## Google Light House Testing
 
-This feature is an open source automated too for measuring the quality of a webpage.
+This feature is an open source automated too for measuring the quality of a webpage. Any issues shown have been addressed below. 
 
 
 ## Home page
@@ -294,4 +296,15 @@ This feature is an open source automated too for measuring the quality of a webp
 
 * Accesability issues 
   * Contrast ratio of the text and the backgorund colours would fail [W3](https://www.w3.org/TR/WCAG20/). As these are just guidlines and I feel It would effect the over all aesthetics and colour theme if I changed.
-  * No discernible name's linked to the soical links.  
+  * No discernible name's attached to the soical links.
+    * As this project is intended to be a minimalistic, adding text contact may hinder that.
+  * Logo Image at Incorrect aspect ratio
+    * The Image ratio has been reduced too '200 x 100' to fit the nav bar, on visual testing this fits the visial aesthetics intended.
+
+# Bugs
+
+* Navbar background Image
+  When making a subfolder for the `stylesheet.css` in the `staic` folder I came across an issue resulting in the navbar background image not been displayed. finding no solution I had to revert back to the `stylesheet.css` been placed to its orignal source. 
+
+* Sticky Navbar
+  * I encountered an issue with the `sticky-top` bootstrap class on the nav bar. When scrolling down the webpage the nav bar would dissapear half way down. Issues that cause this can be a height added to the parent element [Github](https://github.com/twbs/bootstrap/issues/21919) subsequently by removing the height property from the body element and adding it to the html element this fixed the issue. 
