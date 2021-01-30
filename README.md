@@ -15,9 +15,23 @@ future music releases.
 
  **This website is for eductional purposes only**
 
-<h1 align="center">UX</h1>
+ # Table of Contents
+ 1. [UX](#ux)
+    * [Stratergy](#sratergy-plane)
+    * [Scope](#scope)
+    * [Structure](#structure)
+    * [Skeleton](#skeleton-plane)
+    * [Surface](#surface-plane)
+2. [Features](#features)
+3. [Technologies](#technologies-used)
+4. [Testing](#testing)
+5. [Deployment](#deployment)
+6. [Credits](#credits)
+7. [Acknowledgements](#acknowledgements)
 
-# Stratergy
+<h1 align="center">UX</h1> <a name="ux"></a>
+
+# Stratergy <a name="sratergy-plane"></a>
 
 ## Research
 
@@ -84,7 +98,7 @@ Below you can find the following user stories that were brainstomred as part of 
 
 * `As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases`
 
-# Scope
+# Scope <a name="scope"></a>
 
 ## Website Requirements
 
@@ -107,7 +121,7 @@ Below you can find the following user stories that were brainstomred as part of 
 * Make the descriptions simple and straight to the point 
 
 
-# Structure
+# Structure <a name="structure"></a>
 
 ## Home Page
 
@@ -165,7 +179,8 @@ Below you can find the following user stories that were brainstomred as part of 
    * Aquire user Information/feedback
    * Understand your users
 
-# Skeleton Plane
+# Skeleton Plane <a name="skeleton-plane"></a>
+
 ### Wireframes
 
 All wireframes are the core skelteton to aid in the planning process and are not the final look of the design. I recommend that the PNG's are downloaded to be viewed in your own browser.  
@@ -176,7 +191,7 @@ All wireframes are the core skelteton to aid in the planning process and are not
 -  [Contact Page Wireframe All Devices](https://github.com/wilko90/UCFD-Milestone-Daftpunk-Discography/blob/master/static/wireframes/contact.png)
 
 
-# Surface Plane
+# Surface Plane <a name="surface-plane"></a>
 
 ## Brand Image
 The branding Image or better known as a logo is a key aspect to draw attenttion to the user. Intially I chose a popular image that is associated with the artists 2001 album "discovery" 
@@ -244,7 +259,7 @@ Large eye catcning social links found at each footer of the page painted light b
 Buttons posistioned in eye catching areas to encourage engagement. white text with a gold background when inactive but when engaged jumps to a slight off gold so the user knows his action has been Acknowledged. The most important call to action sitting at the top of the page (engages contact with user) highlighted white on a black background when interacted turns gold to match text written before.
 
 
-# Features
+# Features <a name="features"></a>
 
 ## Exsiting
 
@@ -287,7 +302,7 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 #### Forum/Discussion Area
 * Implementing a Discussion area is a great way to get users to return to your page. This will help create a communitiy where users will have a lot higher level of investment than a user just passing through. This feature could be Implemented into its own navigation tab so the returning user can naviugate easliy to the desired forum.
 
-# Technologies Used
+# Technologies Used <a name="technologies-used"></a>
 
 ### Languages Used
 
@@ -314,12 +329,12 @@ Buttons posistioned in eye catching areas to encourage engagement. white text wi
 
 
 
-# Testing
+# Testing <a name="testing"></a>
 
-Please click here for full testing section. 
+For full testing section [click here](TESTING.md) 
 
 
-# Deployment
+# Deployment <a name="deployment"></a>
 ### How my project was deployed
 
 1. Log in to [Github](https://github.com/)
@@ -355,7 +370,7 @@ For more Information have a look at the officilal git hub page on cloning a repo
 8. Run the file. 
 
 
-# Credits
+# Credits <a name="credits"></a>
 
 ## Written Content
 
@@ -400,7 +415,7 @@ The video media that is embeded in the `about` page came from a [Mixmag](https:/
 
 
 
-# Acknowledgements
+# Acknowledgements <a name="acknowledgements"></a>
 
 - The Idea for this project came from my own personal passion of collecting electoronic music from the 90's to present and reviewing them on my own social media account. I belive that DaftPunk are a massive contrbutor to why electronic music is so popular today and this game me the insperation to base my project around them.
 

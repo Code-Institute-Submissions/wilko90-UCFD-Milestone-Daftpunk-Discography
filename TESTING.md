@@ -1,5 +1,7 @@
 <h1 align="center">UCFD Milestone Project - Daft Punk's Discography Testing Sction</h1>
 
+For full readme [click here](README.md)
+
 # Table of Contents
 
 1. [User Story Testing](#user-story)
