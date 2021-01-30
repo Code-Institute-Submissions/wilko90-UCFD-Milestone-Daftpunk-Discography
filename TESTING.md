@@ -278,3 +278,20 @@ This feature is an open source automated too for measuring the quality of a webp
 <img src="static/images/lighthouse-home.png">
 
 ## Discography Page 
+
+<img src="static/images/lighthouse-discography.png">
+
+* Low 'Best Practices" due to external links ('might not be safe') for the user to be able to purchase a certain discography. As a frequent user of the 3rd party site that the buttons are linked to, I can confrirm it is safe.  
+*Images saved in a 'JPG' or 'PNG' tis slightly decreases download time. It is recomended that Image files are formated in JPEG 2000 and JPEG XR due to there supirer compression rate. On personal testing of the page I found as a testing user I did not bump in to any problems due to this or effecting the performance. 
+
+## About Page
+
+<img src="static/images/lighthouse-about.png">
+
+## Contact Page 
+
+<img src="static/images/lighthouse-signup.png">
+
+* Accesability issues 
+  * Contrast ratio of the text and the backgorund colours would fail [W3](https://www.w3.org/TR/WCAG20/). As these are just guidlines and I feel It would effect the over all aesthetics and colour theme if I changed.
+  * No discernible name's linked to the soical links.  
