@@ -1,6 +1,17 @@
 <h1 align="center">UCFD Milestone Project - Daft Punk's Discography Testing Sction</h1>
 
-# User Story Testing
+# Table of Contents
+
+1. [User Story Testing](#user-story)
+2. [Features Testing ](#features-testing)
+3. [Further Testing](#further-testing)
+4. [Browser Testing](#browser-testing)
+5. [Validation Testing](#validation-testing)
+6. [Bugs](#bugs)
+
+
+
+# User Story Testing <a name="user-story"></a>
 
 ## "As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases".
 
@@ -41,7 +52,7 @@ The call to action that the user is presented with when they arrive to the site 
 * alternativly for the user to obtain a more personal response they can submit an equiry that ois located in the `contact` page on the navbar.
 * Both form and newsletter requieres the correct information to be  inputed or the user will no be able to submit there data.    
 
-# Features Testing
+# Features Testing <a name="features-testing"></a>
 
 ## Desktop,tablet and mobile responsive
 
@@ -164,6 +175,7 @@ All Functions below were tested on every page with dektop,tablet and mobile devi
    * `Play`,`Pause`,`volume`, `scrubbing toggle`,`download` option
 * Correct Media is linked with the correct player
 * Media starts when `play` button is intiated
+  * Media will not stop playing if another track is selected and played, causing audio to overlap. to prevent this java script is required. [Stack Overflow](https://stackoverflow.com/questions/43430897/javascript-to-stop-playing-sound-when-another-starts)
 * Media pauses when `pause` button is intiated
 * media mutes when `mute` button is intiated
 * `Volume toggle` when intated lower or increase volume (only on desktop)
@@ -171,6 +183,7 @@ All Functions below were tested on every page with dektop,tablet and mobile devi
 * Media downloads when download button is initiated.
 * Media player compatiable with Safari,Chrome,Mozzila,Microsoft edge (tested on latest versions)
 * Uncompatable browser text does not show unless uncompatble. (Uncompatablelity I couldnt test as all testing was done on the latest verions of specific web browsers so audio worked. here is a link with browsers that support the `audio` and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).
+
 
 ### video
  All functions below were tested on every page with dektop,tablet and mobile devices.
@@ -189,7 +202,7 @@ All Functions below were tested on every page with dektop,tablet and mobile devi
 * Media player compatiable with Safari,Chrome,Mozzila,microsoft edge (tested on latest versions)
 *Uncompatable browser text does not show unless uncompatble. (Uncompatablelity I couldnt test as all testing was done on the latest verions of specific web browsers so audio worked. here is a link with browsers that support the `audio` and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).   
 
-## Further Testing 
+# Further Testing <a name="further-testing"></a>
 
 ### Forms 
 
@@ -217,7 +230,7 @@ All functions below were tested on every page with dektop,tablet and mobile devi
 * Ensure that carousel is working in multiple browsers (browsers listed in 'browser testing')
 
 
-# Browser Testing
+# Browser Testing <a name="browser-testing"></a>
 All browser testing was done with the same method above
 * Problems usually rise when my css was not compatable with most browsers, running my css code through a [Auto-Prefixer](https://autoprefixer.github.io/) solved these compatablity issues.
 
@@ -242,7 +255,7 @@ The Responsive test on safari was done by enabling the built in "responsive mode
  ## Internet Explorer 
 
 
- # Validation Testing
+ # Validation Testing <a name="validation-testing"></a>
 
 ### Validation tetsing was done with two third party applicaitons  [W3 Validator](https://validator.w3.org/) for `html` and [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) for testing `css`.
 
@@ -301,10 +314,11 @@ This feature is an open source automated too for measuring the quality of a webp
   * Logo Image at Incorrect aspect ratio
     * The Image ratio has been reduced too '200 x 100' to fit the nav bar, on visual testing this fits the visial aesthetics intended.
 
-# Bugs
+# Bugs <a name="bugs"></a>
 
 * Navbar background Image
   When making a subfolder for the `stylesheet.css` in the `staic` folder I came across an issue resulting in the navbar background image not been displayed. finding no solution I had to revert back to the `stylesheet.css` been placed to its orignal source. 
 
 * Sticky Navbar
   * I encountered an issue with the `sticky-top` bootstrap class on the nav bar. When scrolling down the webpage the nav bar would dissapear half way down. Issues that cause this can be a height added to the parent element [Github](https://github.com/twbs/bootstrap/issues/21919) subsequently by removing the height property from the body element and adding it to the html element this fixed the issue. 
+
