@@ -203,6 +203,18 @@ All functions below were tested on every page with dektop,tablet and mobile devi
   * Text in Name field
   * Text in Queiry field
 
+### Carousel
+
+All functions below were tested on every page with dektop,tablet and mobile devices.
+
+* Ensure that three Images are attached to the Carousel
+* Ensure the Image resolution stays high in diffrent viewports and devices 
+* Ensure that the Indacators are present on medium/large viewports
+* Ensure that that Indactors are working to show next and previous images
+* Ensure that the Image automaticly alternates after 10 seconds
+* Ensure that carousel is working in multiple browsers (browsers listed in 'browser testing')
+
+
 # Browser Testing
 All browser testing was done with the same method above
 * Problems usually rise when my css was not compatable with most browsers, running my css code through a [Auto-Prefixer](https://autoprefixer.github.io/) solved these compatablity issues.
