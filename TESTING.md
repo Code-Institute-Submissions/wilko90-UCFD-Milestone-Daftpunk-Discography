@@ -254,7 +254,15 @@ The Responsive test on safari was done by enabling the built in "responsive mode
   * Required to right click and 'Download'
 * All other testing approved 
 
- ## Internet Explorer 
+ ## Internet Explorer 11
+Testing my project on Internet explorer was very difficult as I am a mac user and dont have access to a windows computer. Due to covid restrictions I am also unable to go anywear that may have one. I am also aware that Internet explorer is known for been rather buggy and have compatability issues so I had to find a solution.  
+
+Firstly I got recomended a cross browser tesing platfrom called [Browserling](https://www.browserling.com/) which abled me to test in 3 minute session for free. This really made it difficult to test all the features. below are a list of features that I managed to pick up. 
+
+* Audio media loading with an error
+  * I believe this could be a compatablity issue with the broswer testing website as I asked a friend to check this and he confirmed the audio played on his compouter.
+* Text not wrapping around Image on about page
+   * `shape-outside` class has compatability issues [caniuse](https://caniuse.com/?search=shape-outside)
 
 
  # Validation Testing <a name="validation-testing"></a>
