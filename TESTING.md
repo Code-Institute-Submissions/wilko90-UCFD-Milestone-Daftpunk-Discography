@@ -15,70 +15,70 @@ For full readme [click here](README.md)
 
 # User Story Testing <a name="user-story"></a>
 
-## "As a visiting user I want to browse the duo's music discography so that I can listen to there past and current releases".
+## "As a visiting user I want to browse the duo's music discography so that I can listen to their past and current releases".
 
- Initial contact with the home page you will see the compmanys logo, a call to action, four navigation links, large powerful Imagery and a title. If a user requires to browse the artist's music they can do so in three possible ways, Navigate to the `discography` link on the navbar, click the C2A `find more` on the home page or click either of the sample releases that are also on the home page. Each process will navigate the user to be able to freely browse and listen music of there choice with ease. 
-*  The concept is simple, efficent and an effective way to browse and listen any desired releases of the users choice.
-* All releases have a stylish yet easy readable title, tracklists, a large Image, and media controls to play,pause,stop and adjust the volume. 
-* To allow flexibility for the user all content is responsive to all devices and view ports which will arrange all content neatly and readable. 
+ On initial contact with the home page you will see the company's logo, a call to action, four navigation links, large powerful imagery and a title. If a user requires to browse the artist's music they can do so in three possible ways: Navigate to the `discography` link on the navbar, click the C2A `find more` on the home page or click either of the sample releases that are also on the home page. Each process will navigate the user to freely browse and listen to music of their choice with ease. 
+*  The concept is simple, efficient and an effective way to browse and listen to releases.
+* All releases have a stylish yet easily readable title, tracklist, a large image, and media controls to play, pause, stop and adjust the volume. 
+* To allow flexibility for the user, all content is responsive to all devices and view ports which will arrange content neatly, increasing fluidity. 
 
-## "As a visiting user I want to learn more about where I can purchase there music"
+## "As a visiting user I want to learn more about where I can purchase their music"
 
- If a user wanted to purchse any music they had listend too they can by navigating to the `discography` page and under there desired release there is a C2A button `link to buy` this will open a new tab leading straight to a trusted 3rd party webpage for private sellers.
+ If a user wanted to purchse any music they had listend to, they can by navigating to the `discography` page and under the desired release, there is a C2A button `link to buy`. This will open a new tab leading straight to a trusted third party webpage for private sellers.
 
-* The C2A buttons are designed with the same style and feel as all the webpages, also with a minimal degree of interactiuvity with a slight colour change when hoverd over.
-* Each C2A section will breack down neatly when viewed in alternate devices or viewports allwing flexibility for the user.
+* The C2A buttons are designed with the same style and tones as all the webpages. There is also a minimal degree of interactivity with a slight colour change when hovered over.
+* Each C2A section will break down neatly when viewed in alternate devices or viewports, allowing flexibility for usage.
 
-## "As a visiting user I want to understand more about the music artists history"
+## "As a visiting user I want to understand more about the music artist's history"
 
-For a user to obtain more information on the artits they can click on the `about` link on the nav bar or either click the C2A `Click For Bio` that is located under the artists section on the home page. 
-* Once user is on the `about` page there they will find text information on there history that is wraped neatly around an image of the artists that represent the design chocies and feel of the webpage to give the user a visually pleasing experience.
-* On different smaller viewports the image of the artists is hidden to allow the page to be fully repsonsive on mobile devices.
-* The user also has a choice to watch a brief documentry of the artists that is just sitting below the text under a title called "Evolution" with media controls to play,stop,pause, adjust the volume, make media full width of the screen and to download.
+For a user to obtain more information on the artits they can click on the `about` link on the nav bar or click the C2A `Click For Bio` that is located under the artists section on the home page. 
+* Once user is on the `about` page, they will find text information about artist's history. This is wrapped neatly around an image of the artists. This represents the design chocies and overall feel of the webpage to give the user a visually pleasing experience.
+* On different smaller viewports, the image of the artists is hidden to allow the page to be fully respsonsive on mobile devices.
+* The user also has a choice to watch a brief documentary of the artists that is sitting just below the text under a title called "Evolution". This also features media controls to play, stop, pause, adjust the volume, make media full width of the screen, and an option to download.
 * Media player is fully repsonsive and will render down to be viewable on all devices and viewports.
-* The colour choices, structure and designof the about page maintains consistancy.
+* The colour choices, structure and design of the about page is consistent.
 
-## "As a visiting user I want to be directed easily to the duos social media pages"
+## "As a visiting user I want to be directed easily to the duo's social media pages"
 
-Three social media links are located in the footer of every page under the connect heading, this will send the user in a new tab (so this doesnt divert the user to far) to either `Facebook`, `Youtube` or `Instagram`.
+Three social media links are located in the footer of every page under the 'connect' heading. This will send the user to a new tab (so the user is only temporarily diverted) to either `Facebook`, `Youtube` or `Instagram`.
 
-* Each social media Icon has the logo to represent each social page and is desgined with the same aesthetics and colour scheme of the webpage all housed in a slim circular border.
-* Social media links reduce in size when viewed on smaller viewports and devices so the links fit in with the aesthetics of the page.
-* Interactivity is showed when the user hovers over a solical link, changing to the colour of gold to aid in that connection with the user.
+* Each social media icon has the logo to represent each social page and is desgined with the same aesthetics and colour scheme of the webpage, all housed in a slim circular border.
+* Social media links reduce in size when viewed on smaller viewports and devices so the links are in keeping with the aesthetics of the page.
+* Interactivity is showed when the user hovers over a social link, changing to the colour of gold.
 
 ## "As a visiting user I want to be able to register my email so that I can keep up to date with any news or future releases"
 
-The call to action that the user is presented with when they arrive to the site is the main point of contact for a user to register for the newsletter, alternatvly the user can navigate to the `contact` where they can also register to the news letter or submit an enquiery.
+The call to action that the user is presented with when they arrive to the site is the main point of contact for a user to register for the newsletter. Alternatively, the user can navigate to the `contact` section, where they can also register to the newsletter or submit an enquiry.
 * When the C2A button on the `Home` page is interacted with it will turn gold to match the colour scheme.
-* keeping things extremly user friendly the user will only need to interact twice to register by inputting there email address then submiting by clicking the gold `Sing Up` button.
-* alternativly for the user to obtain a more personal response they can submit an equiry that ois located in the `contact` page on the navbar.
-* Both form and newsletter requieres the correct information to be  inputed or the user will no be able to submit there data.    
+* To ensure a user friendly interface, the user will only need to interact twice to register by inputting their email address, then submitting by clicking the gold `Sing Up` button.
+* Alternatively, the user can obtain a more personal response by submitting an equiry. This is located in the `contact` page on the navbar.
+* Both the contact form and newsletter require the correct information to be inputted, or the user will be unable to submit their data.    
 
 # Features Testing <a name="features-testing"></a>
 
-## Desktop,tablet and mobile responsive
+## Desktop, tablet and mobile responsive
 
-Mobile resposivenes is extremly important to maintaing constent traffic towards a webpage as there are nearly six billion mobile users in the world today. (stat pulled from [99 Designs](https://99designs.co.uk/blog/tips/responsive-web-design-key-tips-and-approaches/)) Intial testing that my webpage was fully responsive was used with [Google Dev Tools](https://developers.google.com/web/tools/chrome-devtools) which can be accessed using a chrome browser by right clicking on your mouse and clicking Inspect. With in this feature you can toggle towards the device tool bar which will list various tablet and mobile screen sizes to test that your webpage is repsonsive on specific device. The testing criteria below was considered on all pages avliable to the user.
+Mobile responsiveness is extremely important for maintaining consistent traffic towards a webpage, as there are nearly six billion mobile users in the world today. (stat pulled from [99 Designs](https://99designs.co.uk/blog/tips/responsive-web-design-key-tips-and-approaches/)) Intial testing that my webpage was fully responsive was used with [Google Dev Tools](https://developers.google.com/web/tools/chrome-devtools). This can be accessed using a chrome browser by right clicking on your mouse and clicking `inspect`. Within this feature, you can toggle towards the device tool bar which will list various tablet and mobile screen sizes to test that your webpage is repsonsive on specific device. The testing criteria below was considered on all pages avliable to the user.
 
 * Ensure that every page runs fluid with each other, and each feature remains remains dynamic and inline.
 * Text, controls, and images must be aligned and properly placed across the site.
 * The content location should be dynamic as screen resolution changes.
-* Buttons must be well-adjusted and of suitable sizing
-* Color, shading, and gradient must be consistent through out.
-* All text remaines readable on all devices.
+* Buttons must be well-adjusted and of suitable sizing.
+* Colour, shading, and gradient must be consistent throughout.
+* All text remains readable on all devices.
 
 ### Home page
-* Call to action button is visable on tablets and Desktop.
-  * Call to action dissaperes on mobile devices but reapers when device is horizontal. 
-* Logo and navbar icon are visable and allinged
-  * Navbar contents when collapsed is centerd and remains fluid with content benieth.
-  * Navbar text is the correct colour and sizeing is proportionate.
-  * Nav bar icon on screen sizes of 280px or less remains inline with logo 
-* Carousel is active and inline with content above and below.
+* Call to action button is visible on tablets and desktop.
+  * Call to action disappears on mobile devices, but reappears when device is horizontal. 
+* Logo and navbar icon are visible and alinged.
+  * Navbar contents when collapsed is centered and remains fluid with content beneath.
+  * Navbar text is the correct colour and sizing is proportionate.
+  * Nav bar icon on screen sizes of 280px or less, remains in line with logo 
+* Carousel is active and in line with content above and below.
   * Images resolution remains intact.
   * Slide indicators are removed when viewing on screen sizes of 576px and below.
 * Display-4 title and paragraph text below remains readable, centered and static
-* Discogrpahy sample images are split into different coloumns within respective viewports and are dynamic with each other.
+* Discography sample images are split into different coloumns within respective viewports and are dynamic with each other.
   * Titles are readable centered and inline.
   * Media controls are centerd and sit fluid with image and text.
 * Artists Image cards remains with in the margins and doesnt overflow.
