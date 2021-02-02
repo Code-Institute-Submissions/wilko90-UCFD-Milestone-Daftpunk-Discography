@@ -60,7 +60,7 @@ The call to action that the user is presented with when they arrive to the site 
 
 Mobile responsiveness is extremely important for maintaining consistent traffic towards a webpage, as there are nearly six billion mobile users in the world today. (stat pulled from [99 Designs](https://99designs.co.uk/blog/tips/responsive-web-design-key-tips-and-approaches/)) Intial testing that my webpage was fully responsive was used with [Google Dev Tools](https://developers.google.com/web/tools/chrome-devtools). This can be accessed using a chrome browser by right clicking on your mouse and clicking `inspect`. Within this feature, you can toggle towards the device tool bar which will list various tablet and mobile screen sizes to test that your webpage is repsonsive on specific device. The testing criteria below was considered on all pages avliable to the user.
 
-* Ensure that every page runs fluid with each other, and each feature remains remains dynamic and inline.
+* To ensure responsiveness, every page runs fluid with each other, and each feature remains dynamic and inline.
 * Text, controls, and images must be aligned and properly placed across the site.
 * The content location should be dynamic as screen resolution changes.
 * Buttons must be well-adjusted and of suitable sizing.
@@ -73,179 +73,181 @@ Mobile responsiveness is extremely important for maintaining consistent traffic 
 * Logo and navbar icon are visible and alinged.
   * Navbar contents when collapsed is centered and remains fluid with content beneath.
   * Navbar text is the correct colour and sizing is proportionate.
-  * Nav bar icon on screen sizes of 280px or less, remains in line with logo 
+  * Nav bar icon on screen sizes of 280px or less remain in line with logo 
 * Carousel is active and in line with content above and below.
-  * Images resolution remains intact.
+  * Image resolutions remain intact.
   * Slide indicators are removed when viewing on screen sizes of 576px and below.
-* Display-4 title and paragraph text below remains readable, centered and static
+* Display-4 title and paragraph text below remain readable, centered and static
 * Discography sample images are split into different coloumns within respective viewports and are dynamic with each other.
-  * Titles are readable centered and inline.
-  * Media controls are centerd and sit fluid with image and text.
-* Artists Image cards remains with in the margins and doesnt overflow.
-  * Text has reduced in size for viewpiorts of 768px and below also centered.
+  * Titles are readable, centered and inline.
+  * Media controls are centered and sit fluid with image and text.
+* Artists Image cards remain within the margins and do not overflow.
+  * Text has reduced in size for viewports of 768px and below. Also centered.
   * `Click for Bio` buttons are sized inline with text and headings.
 * Social heading "connect" and link icons are reduced in size for smaller viewports and remain responsive to all devices.
 
 ### Discography
-* Titles are readable centered and inline.
-* Discography Images cards are dynamic, margins inline and resolution still looks clean.
-  * Text is alligned and centered.
-  * Media controls allinded and centred. 
+* Titles are readable, centered and inline.
+* Discography image cards are dynamic, margins inline and resolution remains high.
+  * Text is aligned and centered.
+  * Media controls aligned and centered. 
   * `Link to buy` button text and border radius reduced in 768px and reduced again in 576px.
 
 ### About
-* Text to wrap around Image fluidly be readable and alinged correctly on large and medium view points.
-* Image aligned to the left of the page siting on text with correct margin.
+* Text to wrap around image fluidly, is readable and alinged correctly on large and medium view points.
+* Image aligned to the left of the page sitting on text with correct margin.
   * Image removed when viewed on small viewports.
-* Evolution video with appropriate padding for all viewports and alligned neatly.
-  * controls to reduce in size and remain dynamic and fluid with padding
-  * On smaller viewports it is recomended the user to view the media in full screen.
+* Evolution video with appropriate padding for all viewports and aligned neatly.
+  * Controls to reduce in size and remain dynamic and fluid with padding.
+  * On smaller viewports, it is recommended the user view the media in full screen.
 
 ### Contact
-* Call to action title and button removed
-* Ensure that the "Contact us" and "Newsletter" sections sit in appropriate coloumns, 
-  * On smaller Viewports both sections sit neatly in a stacked view
-  * text content to reduce in size but remain readbale in small viewpoints
+* Call to action title and button removed.
+* Ensure that the "Contact us" and "Newsletter" sections sit in appropriate coloumns. 
+  * On smaller Viewports, both sections sit neatly in a stacked view
+  * Text content to reduce in size but remain readable in small viewpoints
   * `Send` and `Subscribe` buttons reduce in size when viewed in a small viewpoint.  
 
 ## Modal Testing
 
-All functions below were tested on every page with dektop,tablet and mobile devices.
+All functions below were tested on every page with desktop, tablet and mobile devices.
 
-As the modal is only for demonstration purposes, the content submited will not be registered and the user will be shown an error "405" message resulting in the user pressing the back button to be returned to the page. 
+As the modal is only for demonstration purposes, the content submitted will not be registered and the user will be shown an error "405" message, resulting in the user pressing the back button to be returned to the page. 
 
-* Ensure that the modal is displayed centraly above the navbar 
-* Ensure that the modal apperars centraly once activated
-* Ensure that you can exit with by clicking the cross 
+* Ensure that the modal is displayed centrally above the navbar 
+* Ensure that the modal appears centrally once activated
+* Ensure that you can exit by clicking the cross 
 * Ensure sure you can exit by clicking `esc` on your keyboard 
 * Ensure you can exit by clicking with your cursor away from pop up
-* Ensure that all text is visable and readable
-* That the `Sign Up` button is visable, correct colour and the hover class is active.
+* Ensure that all text is visible and readable
+* That the `Sign Up` button is visible, the correct colour and the hover class is active.
 * Ensure that the `Sign Up` button is clickable 
-* Ensure that the place holder text dissapears when user is inputting data
-* If no data is inputted but user clicks submit that an error message is dispalayed "! please fill in this field"
+* Ensure that the place holder text disappears when user is inputting data
+* If no data is inputted but user clicks submit, that an error message is dispalayed "! please fill in this field"
 * Ensure that if the user does not enter a valid email address with an "@" a error message appers when submited "! please inlcude a '@'"
-* Ensure that once submited the user is divited back to there current webpage.
+* Ensure that once submited the user is diverted back to their current webpage.
 * Ensure the modal is not displayed when on the Contact page.
 
 ## Navigation Bar 
 
 All functions below were tested on every page with dektop,tablet and mobile devices.
 
-* All navigation links are active and send user correctly to there desired location
+* All navigation links are active and send user correctly to the desired location
   * `Home`-`Discography`-`About`-`Contact`
   * `Discography`-`About`-`Contact`-`Home`
   * `About`-`Contact`-`Home`-`Discography`
   * `Contact`-`Home`-`Discography`-`About`
-* Ensure All navigation links are in correct order on all active links 
-* Ensure that the logo Image is active and once clicked always revert back to the `home`page
+* Ensure all navigation links are in correct order on all active links 
+* Ensure that the logo image is active and once clicked always reverts back to the `home`page
   * This was tested on all pages
-* Ensure that the navigation links Hover classes are active and underline with a white line once interacted with when in desptop view.
-* Ensure that the navigation background Image static and the resouluton is high.
-* Ensure the navbar height is consistent bewteen pages
-* Ensure that Navigation links do not open in a new tab.
+* Ensure that the navigation links Hover Classes are active and underlined with a white line once interacted with when in desptop view.
+* Ensure that the navigation background image is static and the resolution is high.
+* Ensure the navbar height is consistent between pages
+* Ensure that navigation links do not open in a new tab.
 * Ensure the Navbar remains sticky when scrolling down the webpage
-* Ensure that the relative active link remains different from inactive links
+* Ensure that the active link remains different from inactive links
 * Ensure logo remains same size when viewed on tablet and mobile device
 * Ensure Burger icon activates when in mobile device or small viewports
-* Ensure burger icon collapses when active and navigation links appear,centered and readable.
-* Ensure Burger Navigation links dissapear when burger icon Is not active
+* Ensure burger icon collapses when active and navigation links appear centered and readable.
+* Ensure Burger Navigation links disappear when burger icon is not active
 
 
 
 ## Footer
 
-All Functions below were tested on every page with dektop,tablet and mobile devices.
+All Functions below were tested on every page with dektop, tablet and mobile devices.
 
-* Ensure footer is posisitoned at the bottom of every page
-* Ensure the hover styling is active when cursor is active on soical links (desktop)
+* Ensure footer is positioned at the bottom of every page
+* Ensure the hover styling is active when cursor is active on social links (desktop)
 * Ensure each social link sends to correct destination
   * Facebook-Facebook
   * Instagram-Instagram
   * Youtube-Youtube
 * Ensure each social site appears in a new tab
-* Ensure footer reamins static on all viewports
-* Ensure Social links remain in the correct order on all links
+* Ensure footer remains static on all viewports
+* Ensure social links remain in the correct order on all links
  * Facbook-Instagram-Youtube
 
 ## Media Players
 
 ### Audio
- All functions below were tested on every page with dektop,tablet and mobile devices.
- * Media Does not start unless interacted with
- * Media controls visable,static and are responsive in lower viewports, tablet and mobile
+ All functions below were tested on every page with dektop, tablet and mobile devices.
+ * Media does not start unless interacted with
+ * Media controls visible, static and are responsive in lower viewports, tablet and mobile
    * `Play`,`Pause`,`volume`, `scrubbing toggle`,`download` option
-* Correct Media is linked with the correct player
-* Media starts when `play` button is intiated
-  * Media will not stop playing if another track is selected and played, causing audio to overlap. to prevent this java script is required. [Stack Overflow](https://stackoverflow.com/questions/43430897/javascript-to-stop-playing-sound-when-another-starts)
-* Media pauses when `pause` button is intiated
-* media mutes when `mute` button is intiated
-* `Volume toggle` when intated lower or increase volume (only on desktop)
+* Correct media is linked with the correct player
+* Media starts when `play` button is initiated
+  * Media will not stop playing if another track is selected and played, causing audio to overlap. To prevent this, java script is required. [Stack Overflow](https://stackoverflow.com/questions/43430897/javascript-to-stop-playing-sound-when-another-starts)
+* Media pauses when `pause` button is initiated
+* Media mutes when `mute` button is initiated
+* `Volume toggle` when initiated decreases or increases volume (only on desktop)
 * Media can be scrubbed forwards and backwards with toggle
 * Media downloads when download button is initiated.
-* Media player compatiable with Safari,Chrome,Mozzila,Microsoft edge (tested on latest versions)
-* Uncompatable browser text does not show unless uncompatble. (Uncompatablelity I couldnt test as all testing was done on the latest verions of specific web browsers so audio worked. here is a link with browsers that support the `audio` and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).
-
+* Media player compatible with Safari, Chrome, Mozilla, Microsoft Edge (tested on latest versions)
+* 'Incompatible browser' text is not shown when compatible.
+* All testing was done on the latest verions of these web browsers. Audio worked throughout. Here is a link with browsers that support the `audio` tag and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).
+* Compatibility was not checked on older versions of web browsers.
 
 ### video
- All functions below were tested on every page with dektop,tablet and mobile devices.
-* Media doesn not play unless intiated
-* Media is visable,static and are responsive in lower viewports, tablet and mobile
-* Media controls are viusable
- * `Play`,`pause`,`scrubbing toggle`,`mute`,`volume bar` to increase audio higher,lower(desktop only) Fullscreen option, download option.
-* media starts when `play` button is intiated
+ All functions below were tested on every page with dektop, tablet and mobile devices.
+* Media does not play unless intiated
+* Media is visible, static and are responsive in lower viewports, tablet and mobile.
+* Media controls are visible
+ * `Play`,`pause`,`scrubbing toggle`,`mute`,`volume bar` to increase audio higher, lower (desktop only) Fullscreen option, download option.
+* Media starts when `play` button is intiated
 * Media pauses when `pause` button is intiated
-* Sound stops when `mute` buton is initiated
-  * Sound starts when `mute` button is off
-* Volume toggle increaes and decreases volume (desktop only)
+* Sound stops when `mute` button is initiated
+  * Sound starts again when `mute` button is turned off
+* Volume toggle increases and decreases volume (desktop only)
 * Media can be moved forwards or backwards with scrubbing toggle
-* Fullscreen option opens when initated 
+* Fullscreen option opens when initiated 
 * Media downloads when `download` button is initated
-* Media player compatiable with Safari,Chrome,Mozzila,microsoft edge (tested on latest versions)
-*Uncompatable browser text does not show unless uncompatble. (Uncompatablelity I couldnt test as all testing was done on the latest verions of specific web browsers so audio worked. here is a link with browsers that support the `audio` and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).   
+* Media player compatible with Safari, Chrome, Mozilla, Microsoft Edge (tested on latest versions)
+* All testing was done on the latest verions of these web browsers. Audio worked throughout. Here is a link with browsers that support the `video` tag and the version that is supported [link](https://www.w3schools.com/tags/tag_audio.asp).   
+* Compatibility was not checked on older versions of web browsers.
 
 # Further Testing <a name="further-testing"></a>
 
 ### Forms 
 
-All functions below were tested on every page with dektop,tablet and mobile devices.
+All functions below were tested on every page with dektop, tablet and mobile devices.
 
 * Ensure the form text is readable and centered in container
-* Ensure all place holder text is in thge correct sections
-* Ensure that the `Send` button is visable, centered and the hover styling is active
-* Ensure when `Send` button is intiated with out any input in the text fields that an error message appears '! Please fill in this field'.
+* Ensure all place holder text is in the correct sections
+* Ensure that the `Send` button is visible, centered and the hover styling is active
+* Ensure when `Send` button is initiated without any input in the text fields that an error message appears '! Please fill in this field'.
 * Ensure all fields need appropriate data added before submiting  
   * Valid Email address with @ in email field 
   * Number required in number field  
   * Text in Name field
-  * Text in Queiry field
+  * Text in Query field
 
 ### Carousel
 
-All functions below were tested on every page with dektop,tablet and mobile devices.
+All functions below were tested on every page with dektop, tablet and mobile devices.
 
-* Ensure that three Images are attached to the Carousel
-* Ensure the Image resolution stays high in diffrent viewports and devices 
-* Ensure that the Indacators are present on medium/large viewports
-* Ensure that that Indactors are working to show next and previous images
-* Ensure that the Image automaticly alternates after 10 seconds
+* Ensure that three images are attached to the Carousel
+* Ensure the image resolution stays high in different viewports and devices 
+* Ensure that the indicators are present on medium/large viewports
+* Ensure that that indicators are working to show next and previous images
+* Ensure that the image automatically alternates after 10 seconds
 * Ensure that carousel is working in multiple browsers (browsers listed in 'browser testing')
 
 
 # Browser Testing <a name="browser-testing"></a>
 All browser testing was done with the same method above
-* Problems usually rise when my css was not compatable with most browsers, running my css code through a [Auto-Prefixer](https://autoprefixer.github.io/) solved these compatablity issues.
+* Problems usually occurred when my CSS was not compatible with most browsers. Running my CSS code through a [Auto-Prefixer](https://autoprefixer.github.io/) solved these compatibility issues.
 
 ## Chrome-Microsoft Edge 
 * All testing approved
 
 ## Firefox
 * No download button on audio or video players
-  * Instead its requiered that you right click and 'save as' to download 
+  * Instead, right click and 'save as' to download 
 * All other testing approved
 
 ## Safari
-The Responsive test on safari was done by enabling the built in "responsive mode" tag thats enabled via the advance settings.
+The Responsive test on Safari was done by enabling the built in "responsive mode" tag. This is enabled via the advanced settings.
 * Stacking issues with the navbar
   * Fix by adding a `display: -webkit-box;` to `.banner-image` class.
   * Fix found at [Stackoverflow](https://stackoverflow.com/questions/35137085/flexbox-code-working-on-all-browsers-except-safari-why)
@@ -255,19 +257,22 @@ The Responsive test on safari was done by enabling the built in "responsive mode
 * All other testing approved 
 
  ## Internet Explorer 11
-Testing my project on Internet explorer was very difficult as I am a mac user and dont have access to a windows computer. Due to covid restrictions I am also unable to go anywear that may have one. I am also aware that Internet explorer is known for been rather buggy and have compatability issues so I had to find a solution.  
-
-Firstly I got recomended a cross browser tesing platfrom called [Browserling](https://www.browserling.com/) which abled me to test in 3 minute session for free. This really made it difficult to test all the features. below are a list of features that I managed to pick up. 
+Testing Internet Explorer was a problematic process. My computer is not compatible with this browser and due to the current pandemic, I could not make use of any library facilities or locate a computer which was compatible.
+ To overcome this problem, I used a cross browser tesing platform called [Browserling](https://www.browserling.com/). Here I was able to test a three minute session free of charge. 
+ Due to the time restrictions, I was unable to test all of the features. Below are a list of errors that I found: 
 
 * Audio media loading with an error
-  * I believe this could be a compatablity issue with the broswer testing website as I asked a friend to check this and he confirmed the audio played on his compouter.
-* Text not wrapping around Image on about page
+* Text not wrapping around image on about page
    * `shape-outside` class has compatability issues [caniuse](https://caniuse.com/?search=shape-outside)
+
+Testing validity may have been limited due to potential compatiblity issue with Browserling. 
+Circumstantial factors limited my ability to thoroughly test Internet Explorer for this project. 
+In future I would plan to locate a computer which is compatible with Internet Explorer so I can test it properly.
 
 
  # Validation Testing <a name="validation-testing"></a>
 
-### Validation tetsing was done with two third party applicaitons  [W3 Validator](https://validator.w3.org/) for `html` and [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) for testing `css`.
+### Validation tetsing was done with two third party applications  [W3 Validator](https://validator.w3.org/) for `html` and [Jigsaw Validator](https://jigsaw.w3.org/css-validator/) for testing `CSS`.
 
 ### html validation Errors
 
@@ -287,15 +292,15 @@ css validation errors
 
 <img src="static/images/jigsaw-validator.png">
 
-* After reseraching the issue the css validator sometimes does not recognise prefixed properties. During my tetsing fase I did not encounter any errors beacsue of this.
+* After reseraching the issue the css validator sometimes does not recognise prefixed properties. During my testing phase, I did not encounter any errors because of this.
 
 <img src="static/images/jigsaw-validator2.png">
 
-* Error above is due to a built in bootstrap css class. Researched here at [Stack Overflow ](https://stackoverflow.com/questions/51495866/bootstrap-4-0-0-fail-w3c-validation).
+* Error above is due to a built-in bootstrap css class. Researched here at [Stack Overflow ](https://stackoverflow.com/questions/51495866/bootstrap-4-0-0-fail-w3c-validation).
 
 ## Google Light House Testing
 
-This feature is an open source automated too for measuring the quality of a webpage. Any issues shown have been addressed below. 
+This feature is an open source, automated tool for measuring the quality of a webpage. Any issues shown have been addressed below. 
 
 
 ## Home page
@@ -306,8 +311,8 @@ This feature is an open source automated too for measuring the quality of a webp
 
 <img src="static/images/lighthouse-discography.png">
 
-* Low 'Best Practices" due to external links ('might not be safe') for the user to be able to purchase a certain discography. As a frequent user of the 3rd party site that the buttons are linked to, I can confrirm it is safe.  
-*Images saved in a 'JPG' or 'PNG' tis slightly decreases download time. It is recomended that Image files are formated in JPEG 2000 and JPEG XR due to there supirer compression rate. On personal testing of the page I found as a testing user I did not bump in to any problems due to this or effecting the performance. 
+* Low 'Best Practices" due to external links ('might not be safe') for the user to be able to purchase a certain discography. As a frequent user of the third party site that the buttons are linked to, I can confirm it is safe.  
+*Images saved in 'JPG' or 'PNG' increase download time. It is recommended that image files are formatted in 'JPEG 2000' and 'JPEG XR' due to advanced compression rate. On personal testing of the page, I did not encounter any problems due to this. The performance was not affected. 
 
 ## About Page
 
@@ -317,18 +322,18 @@ This feature is an open source automated too for measuring the quality of a webp
 
 <img src="static/images/lighthouse-signup.png">
 
-* Accesability issues 
-  * Contrast ratio of the text and the backgorund colours would fail [W3](https://www.w3.org/TR/WCAG20/). As these are just guidlines and I feel It would effect the over all aesthetics and colour theme if I changed.
-  * No discernible name's attached to the soical links.
-    * As this project is intended to be a minimalistic, adding text contact may hinder that.
-  * Logo Image at Incorrect aspect ratio
-    * The Image ratio has been reduced too '200 x 100' to fit the nav bar, on visual testing this fits the visial aesthetics intended.
+* Accessibility issues 
+  * Contrast ratio of the text and the background colours would fail [W3](https://www.w3.org/TR/WCAG20/). I felt it would affect the over all aesthetics and colour theme if I made this change, so I did not change it.
+  * No discernible names attached to the soical links.
+    * As this project is intended to be minimalistic, adding text contact may hinder that.
+  * Logo image is at incorrect aspect ratio
+    * The Image ratio has been reduced to '200 x 100' to fit the nav bar, on visual testing this fits the visual aesthetics intended.
 
 # Bugs <a name="bugs"></a>
 
-* Navbar background Image
-  When making a subfolder for the `stylesheet.css` in the `staic` folder I came across an issue resulting in the navbar background image not been displayed. finding no solution I had to revert back to the `stylesheet.css` been placed to its orignal source. 
+* Navbar background image
+  When making a subfolder for the `stylesheet.css` in the `static` folder I came across an issue resulting in the navbar background image not been displayed. Finding no solution, I had to revert back to the `stylesheet.css` being placed to it's original source. 
 
 * Sticky Navbar
-  * I encountered an issue with the `sticky-top` bootstrap class on the nav bar. When scrolling down the webpage the nav bar would dissapear half way down. Issues that cause this can be a height added to the parent element [Github](https://github.com/twbs/bootstrap/issues/21919) subsequently by removing the height property from the body element and adding it to the html element this fixed the issue. 
+  * I encountered an issue with the `sticky-top` bootstrap class on the nav bar. When scrolling down the webpage the nav bar would dissapear half way down. Issues that cause this can be a height added to the parent element [Github](https://github.com/twbs/bootstrap/issues/21919) subsequently by removing the height property from the body element and adding it to the html element. This fixed the issue. 
 
