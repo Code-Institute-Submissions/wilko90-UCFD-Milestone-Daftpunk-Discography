@@ -48,7 +48,7 @@ body {
 
 .banner-image {
 	width: 100%;
-	background-image: url(static/images/nav_bannenr_1.png) !important;
+	background-image: url(../../static/images/nav_bannenr_1.png) !important;
 	background-size: cover;
 	display: -webkit-box;
 }
