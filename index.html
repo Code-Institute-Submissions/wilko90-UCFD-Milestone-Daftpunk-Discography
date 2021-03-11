@@ -2,245 +2,210 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- bootstrap 4.5.2-->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <!--font awesome-->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css"
-        integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
-    <!-- stylesheet-->
-    <link rel="stylesheet" href="static/css/stylesheet.css" type="text/css" />
-    <!--favicon-->
-    <link rel="shortcut icon" type="image/png" href="static/images/favicon.png">
-    <title>DaftPunk Discography</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- bootstrap 4.5.2-->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<!--font awesome-->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+	<!-- stylesheet-->
+	<link rel="stylesheet" href="static/css/stylesheet.css" type="text/css" />
+	<!--favicon-->
+	<link rel="shortcut icon" type="image/png" href="static/images/favicon.png">
+	<title>DaftPunk Discography</title>
 </head>
 
 <body>
-    <!----sign Up Alert -->
-    <div class="container-fluid alert-container">
-        <div class="row d-none d-sm-block">
-            <div class="col-12">
-                <div class="site-wide-alert alert alert-warning"> <strong>Subscribe to our newsletter</strong> We will
-                    only send you newsletters when we've got brand new and exclusive releases. Click here to sign up to
-                    our mailing list.
-                    <button class="btn btn-primary-signup" data-toggle="modal" data-target="#signUpModal">Click
-                        Here</button>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!--https://getbootstrap.com/docs/4.0/components/navbar/ edited by myself-->
-    <!----navigation Menu -->
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top banner-image">
-        <div class="container-fluid">
-            <!----Logo -->
-            <!--Logo(https://www.pngwing.com/)-->
-            <a class="navbar-brand" href="index.html">
-                <img height="100" width="200" src="static/images/daft-punk-logo1.png" class="logo-image"
-                    alt="daft-punk-logo">
-            </a>
-            <!----navbar toggle -->
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Responsivenav"> <span
-                    class="fas fa-bars"></span>
-            </button>
-            <!----navbar collapse -->
-            <div class="collapse navbar-collapse Responsivenav" id="Responsivenav">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"><a href="index.html" class="nav-link current">Home</a>
-                    </li>
-                    <li class="nav-item"><a href="discography.html" class="nav-link">Discography</a>
-                    </li>
-                    <li class="nav-item"><a href="about.html" class="nav-link">About</a>
-                    </li>
-                    <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <section class="content">
-        <!----carousel Hero Images -->
-        <!--https://getbootstrap.com/docs/4.0/components/carousel/-->
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            </ol>
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="d-block w-100" src="static/images/daft_punk_carousel_3.jpg" alt="First slide">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="static/images/daft_punk_carousel_2.jpg" alt="Second slide">
-                </div>
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="static/images/daft-punk-carousel-4.jpg" alt="Third slide">
-                </div>
-            </div>
-            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev"> <span
-                    class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next"> <span
-                    class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span>
-            </a>
-        </div>
-        <!----intro Section -->
-        <div class="container-fluid">
-            <div class="row intro-section text-center">
-                <div class="col-12">
-                    <h1 class="display-4 title-mobile">DAFT PUNK'S DISCOGRAPHY</h1>
-                    <hr>
-                    <div class="col-12">
-                        <p class="lead text-muted">We are on a mission to showcase the best comprehensive list of
-                            recordings made by the French electornic music group Daft Punk.</p>
-                        <p><a href="discography.html" class="btn btn-secondary my-2">Find More</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!----discography Samples -->
-        <div class="container-fluid">
-            <div class="row text-center">
-                <div class="col-md-3 col-sm-6">
-                    <a href="discography.html">
-                        <img height="197" width="197" src="static/images/da-funk-discography.jpg"
-                            alt="daft-punk-da-funk" class="img-thumbnail">
-                    </a>
-                    <h6 class="homepage-title">Daft Punk ‎– Da Funk</h6>
-                    <audio class="audio-controls" controls src="static/audio/da-funk-sample.mp3">Your browser does not
-                        support the audio!</audio>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="discography.html">
-                        <img height="197" width="197" src="static/images/around-the-world-discography.jpg"
-                            alt="daft-punk-da-funk" class="img-thumbnail">
-                    </a>
-                    <h6 class="homepage-title">Daft Punk ‎– Around The World</h6>
-                    <audio class="audio-controls" controls src="static/audio/daftpunk-aroundtheworld.mp3">Your browser
-                        does not support the audio!</audio>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="discography.html">
-                        <img height="197" width="197" src="static/images/daft-slum-home.jpg" alt="daft-punk-da-funk"
-                            class="img-thumbnail">
-                    </a>
-                    <h6 class="homepage-title">Daft Punk Vs Slum Village ‎– Raise It Up</h6>
-                    <audio class="audio-controls" controls src="static/audio/slum-village-raiseitup-mp3.mp3">Your
-                        browser does not support the audio!</audio>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="discography.html">
-                        <img height="197" width="197" src="static/images/new-wave-discography.jpg"
-                            alt="daft-punk-da-funk" class="img-thumbnail">
-                    </a>
-                    <h6 class="homepage-title">Daft Punk ‎– The New Wave</h6>
-                    <audio class="audio-controls" controls src="static/audio/daft-punk-newwave.mp3">Your browser does
-                        not support the audio!</audio>
-                </div>
-            </div>
-        </div>
-        <!----intro Bio  -->
-        <div class="container-fluid">
-            <div class="row intro-bio text-center">
-                <div class="col-12">
-                    <h1 class="display-4">The Artists</h1>
-                    <hr>
-                </div>
-            </div>
-        </div>
-        <!----artists bio -->
-        <!--https://getbootstrap.com/docs/4.0/components/card/ edited by myself-->
-        <div class="container-fluid artists-bio-homepage">
-            <div class="row">
-                <!--image from factmag(https://www.factmag.com/2018/10/29/thomas-bangalter-riga-take-5/)-->
-                <div class="col-md-4 mx-auto artist-padding">
-                    <div class="card">
-                        <img class="card-img-top" src="static/images/thomas-bangalter-home-page.jpeg"
-                            alt="thomas-bangalter-image">
-                        <div class="card-body">
-                            <h4 class="card-title">Thomas Bangalter</h4>
-                            <p class="card-text">A French musician, record producer, singer, songwriter, DJ, and
-                                composer. He is best known as one half of the French house music duo Daft Punk, along
-                                with Guy-Manuel de Homem-Christo</p> <a href="about.html"
-                                class="btn btn-secondary">Click For Bio</a>
-                        </div>
-                    </div>
-                </div>
-                <!--image from consequence of sound](https://consequenceofsound.net/2015/02/-->
-                <div class="col-md-4 mx-auto artist-padding">
-                    <div class="card">
-                        <img class="card-img-top" src="static/images/guy-man-home-page.png" alt="guy-manuel-image">
-                        <div class="card-body">
-                            <h4 class="card-title">Guy-Manuel de Homem-Christo</h4>
-                            <p class="card-text">A French musician, record producer, singer, songwriter, DJ, and film
-                                director. He is one half of the French house music duo Daft Punk, along with Thomas
-                                Bangalter.</p> <a href="about.html" class="btn btn-secondary">Click For Bio</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <footer>
-        <!----social Links -->
-        <div class="container-fluid padding-footer footer-image">
-            <div class="row text-center">
-                <div class="col-12">
-                    <h2 class="display-4 connect-heading">Connect</h2>
-                </div>
-                <div class="col-12 social-links">
-                    <a target="_blank" href="https://en-gb.facebook.com/daftpunk"> <i class="fab fa-facebook"
-                            aria-hidden="true"></i>
-                    </a> <span class="sr-only">Facebook</span>
-                    <a target="_blank" href="https://www.instagram.com/daftpunk/"> <i class="fab fa-instagram"
-                            aria-hidden="true"></i>
-                    </a> <span class="sr-only">Instagram</span>
-                    <a target="_blank" href="https://www.youtube.com/channel/UC_kRDKYrUlrbtrSiyu5Tflg"> <i
-                            class="fab fa-youtube" aria-hidden="true"></i>
-                    </a> <span class="sr-only">Youtube</span>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Sign Up Modal -->
-    <!--https://getbootstrap.com/docs/4.0/components/modal/ edited by myself-->
-    <div class="modal fade" id="signUpModal" tabindex="-1" role="dialog" aria-label="myModalLabel">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Sign up to our newsletter</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span
-                            aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <form>
-                        <div class="form-group">
-                            <label for="email">Email address</label>
-                            <input type="email" class="form-control" id="email" placeholder="Email" required> <small
-                                id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
+	<!----sign Up Alert -->
+	<div class="container-fluid alert-container">
+		<div class="row d-none d-sm-block">
+			<div class="col-12">
+				<div class="site-wide-alert alert alert-warning"> <strong>Subscribe to our newsletter</strong> We will only send you newsletters when we've got brand new and exclusive releases. Click here to sign up to our mailing list.
+					<button class="btn btn-primary-signup" data-toggle="modal" data-target="#signUpModal">Click Here</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--https://getbootstrap.com/docs/4.0/components/navbar/ edited by myself-->
+	<!----navigation Menu -->
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top banner-image">
+		<div class="container-fluid">
+			<!----Logo -->
+			<!--Logo(https://www.pngwing.com/)-->
+			<a class="navbar-brand" href="index.html">
+				<img height="100" width="200" src="static/images/daft-punk-logo1.png" class="logo-image" alt="daft-punk-logo">
+			</a>
+			<!----navbar toggle -->
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Responsivenav"> <span class="fas fa-bars"></span>
+			</button>
+			<!----navbar collapse -->
+			<div class="collapse navbar-collapse Responsivenav" id="Responsivenav">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item"><a href="index.html" class="nav-link current">Home</a>
+					</li>
+					<li class="nav-item"><a href="discography.html" class="nav-link">Discography</a>
+					</li>
+					<li class="nav-item"><a href="about.html" class="nav-link">About</a>
+					</li>
+					<li class="nav-item"><a href="contact.html" class="nav-link">Contact</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<section class="content">
+		<!----carousel Hero Images -->
+		<!--https://getbootstrap.com/docs/4.0/components/carousel/-->
+		<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+			<ol class="carousel-indicators">
+				<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+				<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+				<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+			</ol>
+			<div class="carousel-inner">
+				<div class="carousel-item active">
+					<img class="d-block w-100" src="static/images/daft_punk_carousel_3.jpg" alt="First slide">
+				</div>
+				<div class="carousel-item">
+					<img class="d-block w-100" src="static/images/daft_punk_carousel_2.jpg" alt="Second slide">
+				</div>
+				<div class="carousel-item">
+					<img class="d-block w-100" src="static/images/daft-punk-carousel-4.jpg" alt="Third slide">
+				</div>
+			</div>
+			<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>  <span class="sr-only">Previous</span>
+			</a>
+			<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span>  <span class="sr-only">Next</span>
+			</a>
+		</div>
+		<!----intro Section -->
+		<div class="container-fluid">
+			<div class="row intro-section text-center">
+				<div class="col-12">
+					<h1 class="display-4 title-mobile">DAFT PUNK'S DISCOGRAPHY</h1>
+					<hr>
+					<div class="col-12">
+						<p class="lead text-muted">We are on a mission to showcase the best comprehensive list of recordings made by the French electornic music group Daft Punk.</p>
+						<p><a href="discography.html" class="btn btn-secondary my-2">Find More</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!----discography Samples -->
+		<div class="container-fluid">
+			<div class="row text-center">
+				<div class="col-md-3 col-sm-6">
+					<a href="discography.html">
+						<img height="197" width="197" src="static/images/da-funk-discography.jpg" alt="daft-punk-da-funk" class="img-thumbnail">
+					</a>
+					<h6 class="homepage-title">Daft Punk ‎– Da Funk</h6>
+					<audio class="audio-controls" controls src="static/audio/da-funk-sample.mp3">Your browser does not support the audio!</audio>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<a href="discography.html">
+						<img height="197" width="197" src="static/images/around-the-world-discography.jpg" alt="daft-punk-da-funk" class="img-thumbnail">
+					</a>
+					<h6 class="homepage-title">Daft Punk ‎– Around The World</h6>
+					<audio class="audio-controls" controls src="static/audio/daftpunk-aroundtheworld.mp3">Your browser does not support the audio!</audio>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<a href="discography.html">
+						<img height="197" width="197" src="static/images/daft-slum-home.jpg" alt="daft-punk-da-funk" class="img-thumbnail">
+					</a>
+					<h6 class="homepage-title">Daft Punk Vs Slum Village ‎– Raise It Up</h6>
+					<audio class="audio-controls" controls src="static/audio/slum-village-raiseitup-mp3.mp3">Your browser does not support the audio!</audio>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<a href="discography.html">
+						<img height="197" width="197" src="static/images/new-wave-discography.jpg" alt="daft-punk-da-funk" class="img-thumbnail">
+					</a>
+					<h6 class="homepage-title">Daft Punk ‎– The New Wave</h6>
+					<audio class="audio-controls" controls src="static/audio/daft-punk-newwave.mp3">Your browser does not support the audio!</audio>
+				</div>
+			</div>
+		</div>
+		<!----intro Bio  -->
+		<div class="container-fluid">
+			<div class="row intro-bio text-center">
+				<div class="col-12">
+					<h1 class="display-4">The Artists</h1>
+					<hr>
+				</div>
+			</div>
+		</div>
+		<!----artists bio -->
+		<!--https://getbootstrap.com/docs/4.0/components/card/ edited by myself-->
+		<div class="container-fluid artists-bio-homepage">
+			<div class="row">
+				<!--image from factmag(https://www.factmag.com/2018/10/29/thomas-bangalter-riga-take-5/)-->
+				<div class="col-md-4 mx-auto artist-padding">
+					<div class="card">
+						<img class="card-img-top" src="static/images/thomas-bangalter-home-page.jpeg" alt="thomas-bangalter-image">
+						<div class="card-body">
+							<h4 class="card-title">Thomas Bangalter</h4>
+							<p class="card-text">A French musician, record producer, singer, songwriter, DJ, and composer. He is best known as one half of the French house music duo Daft Punk, along with Guy-Manuel de Homem-Christo</p> <a href="about.html" class="btn btn-secondary">Click For Bio</a>
+						</div>
+					</div>
+				</div>
+				<!--image from consequence of sound](https://consequenceofsound.net/2015/02/-->
+				<div class="col-md-4 mx-auto artist-padding">
+					<div class="card">
+						<img class="card-img-top" src="static/images/guy-man-home-page.png" alt="guy-manuel-image">
+						<div class="card-body">
+							<h4 class="card-title">Guy-Manuel de Homem-Christo</h4>
+							<p class="card-text">A French musician, record producer, singer, songwriter, DJ, and film director. He is one half of the French house music duo Daft Punk, along with Thomas Bangalter.</p> <a href="about.html" class="btn btn-secondary">Click For Bio</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<footer>
+		<!----social Links -->
+		<div class="container-fluid padding-footer footer-image">
+			<div class="row text-center">
+				<div class="col-12">
+					<h2 class="display-4 connect-heading">Connect</h2>
+				</div>
+				<div class="col-12 social-links">
+					<a target="_blank" href="https://en-gb.facebook.com/daftpunk"> <i class="fab fa-facebook" aria-hidden="true"></i>
+					</a> <span class="sr-only">Facebook</span>
+					<a target="_blank" href="https://www.instagram.com/daftpunk/"> <i class="fab fa-instagram" aria-hidden="true"></i>
+					</a> <span class="sr-only">Instagram</span>
+					<a target="_blank" href="https://www.youtube.com/channel/UC_kRDKYrUlrbtrSiyu5Tflg"> <i class="fab fa-youtube" aria-hidden="true"></i>
+					</a> <span class="sr-only">Youtube</span>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- Sign Up Modal -->
+	<!--https://getbootstrap.com/docs/4.0/components/modal/ edited by myself-->
+	<div class="modal fade" id="signUpModal" tabindex="-1" role="dialog" aria-label="myModalLabel">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title" id="exampleModalLabel">Sign up to our newsletter</h5>
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<form>
+						<div class="form-group">
+							<label for="email">Email address</label>
+							<input type="email" class="form-control" id="email" placeholder="Email" required> <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
                                 else.</small>
-                        </div>
-                        <button type="submit" class="btn btn-primary">Sign Up</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!----bootstrap js -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
-        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-        crossorigin="anonymous"></script>
+						</div>
+						<button type="submit" class="btn btn-primary">Sign Up</button>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!----bootstrap js -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
 
 </html>
