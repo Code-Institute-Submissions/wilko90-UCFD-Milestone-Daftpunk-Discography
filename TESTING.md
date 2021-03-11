@@ -292,7 +292,11 @@ css validation errors
 
 <img src="static/images/jigsaw-validator.png">
 
-* After reseraching the issue the css validator sometimes does not recognise prefixed properties. During my testing phase, I did not encounter any errors because of this.
+* After reseraching the issue the css validator sometimes does not recognise prefixed properties. During my testing phase, I did not encounter any errors because of this. 
+
+<img src="static/images/css-validator.png">
+
+* For the purpose of my css to pass through the validator I removed the property `image-wrap` resulting in no errors found.
 
 <img src="static/images/jigsaw-validator2.png">
 

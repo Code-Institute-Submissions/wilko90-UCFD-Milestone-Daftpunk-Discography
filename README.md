@@ -323,7 +323,8 @@ Buttons positioned in eye-catching areas to encourage engagement are white text 
 * My projects logo and typography was graded with [W3](https://www.w3.org/TR/WCAG/#contrast-minimum) guidelines.
 * To aid my css compatabilty for browser support I used [Auto Prefixer](https://autoprefixer.github.io/)
 * [Techsini](https://techsini.com/multi-mockup/index.php) A tool I used to show that my design is responsive at the head of my Readme.
-* html and css code beautified with [minifycocde](http://minifycode.com/css-beautifier/).
+* css code beautified with [minifycocde](http://minifycode.com/css-beautifier/).
+* html code formated using [Github](https://www.gitpod.io/docs/tips-and-tricks/#format-document) formating tool 
 
 
 
