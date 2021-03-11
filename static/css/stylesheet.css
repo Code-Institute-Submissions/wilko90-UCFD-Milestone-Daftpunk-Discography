@@ -260,7 +260,7 @@ a .nav-link:before {
 /*-----------------------------nav bar custom background image desinged by my girl friend using procreate */
 
 .footer-image {
-	background-image: url(static/images/nav_bannenr_1.png) !important;
+	background-image: url(../../static/images/nav_bannenr_1.png) !important;
 	background-size: cover;
 	width: 100%;
 }
